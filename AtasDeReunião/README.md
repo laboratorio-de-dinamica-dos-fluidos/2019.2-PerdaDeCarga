@@ -12,7 +12,9 @@ O mínimo resultado esperado é a definição dos itens entregáveis até dia 24
 
 ## Resultado
 
-Na reunião foi possível determinar todos os parâmetros desejados no plano de reunião, ficando decidido que os integrantes serão:
+Na reunião foi possível determinar todos os itens desejados no plano de reunião, ficando decidido que:
+
+O grupo será formado pelos seguintes integrantes:
 
 * Érick Marcelino Miranda de matrícula 17/0009521 
 * Giovanni Rambo de Freitas de matrícula 16/0007445
