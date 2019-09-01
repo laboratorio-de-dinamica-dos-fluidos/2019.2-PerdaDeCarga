@@ -7,6 +7,6 @@ Avaliarmos o sistema a partir de um exaustor como fonte e de um compressor com e
 O experimento deve conseguir simular as situações de interesse (perda de carga efetiva).
 O maquinário utilizado deve ser capaz de medir parâmetros de escoamento (velocidade e pressão) em pontos de interesse.
 # Tarefas Mínimas
-   Conseguir medir os parâmetros do escoamento e conseguir uma faixa aceitável de erro quando comparado com o teórico.
+   Conseguir medir os parâmetros do escoamento com uma faixa aceitável de erro quando comparado com a teoria.
 # Viabilidade do Experimento
-   O grupo definiu um experimento de baixa complexidade e custo tangível determinando assim o experimento como viável. Tal experimento possibilitará ao grupo tirar bastante proveito do experimento para uma melhor assimilação dos conceitos da disciplina. Os resultados são previsíveis dentro de uma certa margem, viabilizando o procedimento de comprovação teórica.
+   O grupo definiu um experimento de baixa complexidade e custo tangível determinando assim o experimento como viável. Será possível para o grupo se beneficiar do experimento pois será possível uma melhor assimilação dos conceitos da disciplina. Os resultados são previsíveis dentro de uma certa margem, viabilizando o procedimento de comprovação teórica.
