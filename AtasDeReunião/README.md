@@ -22,6 +22,6 @@ O grupo será formado pelos seguintes integrantes:
 
 O tema escolhido foi: **análise de perda de carga em escoamentos**.
 
-Quanto ao objetivo, ficou definido como sendo a análise da perda de carga (energia) de um escoamento em tubos devido à viscosidade e verificando a correspondência entre teoria e prática. As análises serão realizadas para o **ar** em escoamento lâminar e turbulento, ficando assim definido o fluido de trabalho como sendo o ar. Os componentes que irão compor o sistema serão tubos com comprimentos variados, válvulas e juntas de diversos tipos e ângulos (com quina viva ou sem, joelho ou junta em "u"). A interferência de bocais e difusores para as perdas de energia também serão analisadas.
+Quanto ao objetivo, ficou definido como sendo a análise da perda de carga (energia) de um escoamento em tubos devido à viscosidade e verificando a correspondência entre teoria e prática. As análises serão realizadas para o **ar** em escoamento lâminar e turbulento, ficando assim definido o fluido de trabalho como sendo o ar. Os componentes que irão compor o sistema serão dutos com comprimentos variados, válvulas e juntas de diversos tipos e ângulos (com quina viva ou sem, joelho ou junta em "u"). A interferência de bocais e difusores para as perdas de energia também serão analisadas.
 
 Foi discutido com os integrantes também técnicas de fabricação e montagem do experimento e ideias preliminares para sua execução.
