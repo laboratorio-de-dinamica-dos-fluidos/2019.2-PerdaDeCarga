@@ -1,9 +1,9 @@
 # Requisitos de Solução
-   Nós iremos construir nosso duto (perfil retangular) de chapas de poliestireno.
-Iremos avaliar a linha de emissão através de fumaça, para poder avaliar a partir de que ponto temos um escoamento plenamente desenvolvido.
-Teremos uma seção de 12,5 cm de largura e outra de 25 cm de largura.
-Teremos um difusor e um bocal, também feito de chapa.
-Avaliarmos o sistema a partir de um exaustor como fonte e de um compressor com e sem homogeneizador.
+Será construido um duto (perfil retangular) de chapas de poliestireno.
+Ocorrerá uma avaliação da linha de emissão através de fumaça, para o entendimento de a partir de qual ponto tem-se um escoamento plenamente desenvolvido.
+Será avaliado um tubo de seção retangular de 12,5 cm de largura e outra de 25 cm de largura.
+O sistema terá um difusor e um bocal, também feito de chapa.
+O sistema será avaliado a partir de um exaustor como fonte e de um compressor com e sem homogeneizador.
 O experimento deve conseguir simular as situações de interesse (perda de carga efetiva).
 O maquinário utilizado deve ser capaz de medir parâmetros de escoamento (velocidade e pressão) em pontos de interesse.
 # Tarefas Mínimas
