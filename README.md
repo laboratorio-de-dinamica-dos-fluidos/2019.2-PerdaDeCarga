@@ -3,7 +3,7 @@ Integrantes: Érick Marcelino Miranda- 17/0009521, Giovanni Rambo de Freitas - 1
 
 ## Objetivo
 O objetivo da atividade é analisar, através de um experimento, a perda de carga de um escoamento em dutos devido ao atrito e viscosidade e verificar a correspondência entre teoria e prática.
-As análises serão realizadas para o **ar** em escoamento lâminar e turbulento. 
+As análises serão realizadas para o **ar** em escoamento laminar e turbulento. 
 Os componentes que irão compor o sistema serão tubos com diferentes comprimentos, válvulas e juntas de diversos tipos e ângulos. 
 A interferência de bocais e difusores para as perdas de carga também serão analisadas.
 
