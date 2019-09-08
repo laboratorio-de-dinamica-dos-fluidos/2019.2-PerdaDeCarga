@@ -43,4 +43,4 @@ Orçamento, disponibilidade e compra de materiais.
 * **Semana 2 (17-27)**
 Montagem e execução do experimento.
 
-  Com a obtenção dos materiais,o sistema de tubos será completamente construído e vedado para que em seguida seja feita a execução do experimento assim como sua respectiva avaliação da perda de carga durante o escoamento.
+Com a obtenção dos materiais,o sistema de tubos será completamente construído e vedado para que em seguida seja feita a execução do experimento assim como sua respectiva avaliação da perda de carga durante o escoamento.
