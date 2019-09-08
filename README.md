@@ -29,9 +29,9 @@ Para considerar cumpridos os objetivos do experimento deve-se, no mínimo:
 ## Viabilidade do Experimento
 O grupo escolheu um experimento complexidade razoável e custo tangível, determinando assim o experimento como viável. Será possível para o grupo se beneficiar do experimento, pois o mesmo possibilitará melhor assimilação dos conceitos da disciplina. Os resultados são previsíveis dentro de uma certa margem, viabilizando o procedimento de comprovação teórica.
 
-## Estimativa necessária para a montagem e execução do procedimento
+## Procedimento de montagem e execução
 
-
-## Membro do grupo responsável pelo procedimento de montagem e execução
-
-## Cronograma estimado para a montagem e realização do experimento completo
+### Membro responsável: Raul
+### Estimativa do tempo necessário:
+### Cronograma completo
+* Até dia (20/09): 
