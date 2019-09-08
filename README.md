@@ -32,7 +32,7 @@ O grupo escolheu um experimento complexidade razoável e custo tangível, determ
 ## Procedimento de montagem e execução
 
 ### Membro responsável
-Raul
+Raul Braga da Costa - 16/0142954
 ### Estimativa do tempo necessário
 
 ### Cronograma completo
