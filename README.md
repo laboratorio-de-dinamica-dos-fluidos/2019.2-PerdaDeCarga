@@ -34,6 +34,6 @@ O grupo escolheu um experimento complexidade razoável e custo tangível, determ
 ### Membro responsável
 Raul Braga da Costa - 16/0142954
 ### Estimativa do tempo necessário
-
+3 semanas.
 ### Cronograma completo
 * Até dia (20/09): 
