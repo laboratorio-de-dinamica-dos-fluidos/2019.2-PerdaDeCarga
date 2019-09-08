@@ -31,7 +31,7 @@ O grupo escolheu um experimento complexidade razoável e custo tangível, determ
 
 ## Procedimento de montagem e execução
 
-### Membro responsável
+### Integrante responsável pelo procedimento de montagem e execução
 Raul Braga da Costa - 16/0142954
 ### Estimativa do tempo necessário
 3 semanas.
