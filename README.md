@@ -36,4 +36,9 @@ Raul Braga da Costa - 16/0142954
 ### Estimativa do tempo necessário
 3 semanas.
 ### Cronograma completo
-* Até dia (20/09): 
+* **Semana 0 (07-14)** 
+Dimensionamento e projeto do experimento.
+* **Semana 1 (14-17)**
+Orçamento, disponibilidade e compra de materiais.
+* **Semana 2 (17-27)**
+Montagem e execução do experimento.
