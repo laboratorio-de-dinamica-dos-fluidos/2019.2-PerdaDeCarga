@@ -82,11 +82,35 @@ O sistema será iniciado ligando o compressor, após o período de 1 minuto para
 
 É esperado que haja uma variação da pressão (perda de carga) devido aos efeitos viscosos verificados pelo fluido ao se locomover por todo o sistema bem como pelas perturbações geradas devido às mudanças de direção do fluxo.
 
-* **Relações de peças**
+* **Lista de componentes e peças**
+
+* Compressor
+    **Peça 1 - Rotor do compressor**
+    
+    ![github-small](Imagens/base compressor.png)
+    
+    |Material|PLA|
+    |Obtenção|Fabricação própria|
+
+* **Lista de materiais**
+
+Para o sistema projetado deverá ser obtida a seguinte lista de materiais
+
+| Componente | Quantidade |
+|--|--|
+|Cano Marrom PVC Soldável 25mm ou 3/4" 3m Tigre|2|
+|Cano Marrom PVC Soldável 20mm ou 1/2" 3m Equation|2|
+|Válvula de Retenção Marrom PVC Roscável 25mm ou 3/4" Tigre|1|
+|Bucha de Redução Curta Marrom PVC Soldável 25x20mm ou 3/4"x1/2" Tigre|1|
+|Joelho 90° Marrom PVC Soldável 20mm ou 1/2" Plastilit|6|
+|Joelho 90° Marrom PVC Soldável 25mm ou 3/4" Plastilit|6|
+|Mangueira Crystal para Nível 1/4x1,0mm 5m|1|
+|Parafusos M3x10mm|6|
+|Material para impressão|1|
 
 * **Orçamento Preliminar**
 
-Foi realizado um orçamento prelimnar utilizando os valores encontrados via internet no site da empresa Leroy Merlin e será utilizado como base para o orçamento a ser realizado presencialmente na loja física da empresa já citada. Devido à utilização de peças impressas em 3D, foi adicionado ao projeto uma verba para despesas com o serviço. Os valores encontrados e o total levando em consideração a quantidade de peças constam na tabela abaixo:
+Foi realizado um orçamento prelimnar utilizando os valores encontrados via internet no site da empresa Leroy Merlin e será utilizado como base para o orçamento a ser realizado presencialmente na loja física da empresa já citada. Devido à utilização de peças impressas em 3D, foi adicionado ao projeto uma verba para despesas com o serviço. Os valores por unidade e o  valor total levando em consideração a quantidade de peças constam na tabela abaixo:
 
 | Componente | Valor |
 |--|--|
@@ -97,6 +121,8 @@ Foi realizado um orçamento prelimnar utilizando os valores encontrados via inte
 |Joelho 90° Marrom PVC Soldável 20mm ou 1/2" Plastilit|R$ 0,46|
 |Joelho 90° Marrom PVC Soldável 25mm ou 3/4" Plastilit|R$ 0,59|
 |Mangueira Crystal para Nível 1/4x1,0mm 5m|R$ 9,49|
+|Parafusos M3x10mm|R$ 4,66|
 |Material para impressão|R$ 30,00|
-|**Total**|**R$ 92,61**|
+
+|**Total**|**R$ 113,65**|
 
