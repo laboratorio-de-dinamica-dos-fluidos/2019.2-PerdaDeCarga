@@ -112,8 +112,38 @@ O sistema será iniciado ligando o compressor, após o período de 1 minuto para
      |--|--|
      |Material|PLA|
      |Obtenção|Fabricação em impressão 3D|
+     
+     **Peça 4 - Parafusos M3x10mm para o compressor**
+    
+     ![parafuso m3 do compressor](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/TB1U9nRagLD8KJjSszeXXaGRpXa.jpg)
+    
+     |Característica|Definição|
+     |--|--|
+     |Material|Metal|
+     |Obtenção|Lojas de departamento|
+     
+     **Peça 5 - Micro retífica como motor para o compressor**
+    
+     ![micro retífica](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/micro%20retifica.jpg)
+    
+     |Característica|Definição|
+     |--|--|
+     |Marca|Black+Decker|
+     |Obtenção|Já obtida por integrante|
+     
+* Dutos
 
-## **Relação completa de peças**
+    **Peça 6 e 7- Tubos de PVC 20mm e 25mm**
+    
+    ![canos pvc](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/canos.jpg
+    
+     |Característica|Definição|
+     |--|--|
+     |Material|PVC|
+     |Obtenção|Lojas de departamento|
+    
+    
+## **Relação completa de peças com quantidades**
 
 Para o sistema projetado deverá ser obtida a seguinte lista de materiais
 
@@ -133,7 +163,7 @@ Para o sistema projetado deverá ser obtida a seguinte lista de materiais
 
 ## **Orçamento Preliminar**
 
-Foi realizado um orçamento prelimnar utilizando os valores encontrados via internet no site da empresa Leroy Merlin e será utilizado como base para o orçamento a ser realizado presencialmente na loja física da empresa já citada. Devido à utilização de peças impressas em 3D, foi adicionado ao projeto uma verba para despesas com o serviço. Os valores por unidade e o  valor total levando em consideração a quantidade de peças constam na tabela abaixo:
+Foi realizado um orçamento prelimnar utilizando os valores encontrados via internet no site da empresa Leroy Merlin e será utilizado como base para o orçamento a ser realizado presencialmente na loja física da empresa já citada. Devido à utilização de peças impressas em 3D, foi adicionado ao projeto uma verba para despesas com o serviço. Para o cálculo do orçamento foi omitido o valor de itens de posse dos integrantes do grupo. Os valores por unidade e o valor total dos itens a serem comprados, levando em consideração a quantidade de peças, constam na tabela abaixo:
 
 | Componente | Valor |
 |--|--|
