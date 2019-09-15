@@ -67,7 +67,7 @@ Com a obtenção dos materiais,o sistema de tubos será completamente montado e 
 * **Procedimento experimental**
 
 O sistema será montado com tubos e acessórios (juntas e válvulas) para os mesmos.Em seguida,após o período de um minuto para a completa estabilização,será utilizado um manômetro em U com óleo no início e no final do sistema para verificar a diferença de pressão ocorrida.
-A velocidade do escoamento também será verificada .Essa medição será feita somente com o compressor e um tubo de venturi ,ou seja, não estão acoplados ao sistema.
+A velocidade do escoamento também será verificada .Essa medição será feita somente com o compressor e um tubo de venturi ,ou seja, não estarão acoplados ao sistema.
 
 * **Resultados Esperados**
 
