@@ -25,7 +25,7 @@ Para a realização do experimento, é importante a construção de um sistema n
 * Os trechos serão posicionados na horizontal e interligados de forma que o sistema será montado de modo a crescer na vertical, ou seja, os trechos estarão dispostos um acima do outro.
 * Os trechos terão dimensões diferentes de seção transversal, constantes em cada trecho.
 * A mudança de seção transversal não contará com bocais ou difusores.
-* O sistema será avaliado utilizando 3 diferentes métodos de instalação das máquinas de fluido (ventiladores e exaustores), sendo: um exaustor no final do sistema, e um ventilador com e sem homogeneizador de fluxo no início do sistema.
+* O sistema será avaliado utilizando 2 diferentes métodos de instalação da máquinas de fluido (compressor), sendo: um exaustor no final do sistema, e um ventilador com e sem homogeneizador de fluxo no início do sistema.
 * As máquinas de fluido referidas serão adquiridas pelos integrantes.
 * Deve ser possível medir parâmetros de escoamento em pontos de interesse, para tanto será utilizado um manômetro em U para medição de pressão e um tubo de venturi para medição de velocidade no início do sistema para o cálculo da vazão, ambos instrumentos construídos pelos alunos integrantes.
 
@@ -43,36 +43,40 @@ O grupo escolheu um experimento de complexidade razoável e custo tangível, det
 
 Busca-se entender como ocorre a queda de pressão associada aos efeitos viscosos, focando em escoamento interno em dutos circulares.
 
-
 ## Procedimento de montagem e execução
 
-### Integrante responsável pelo procedimento de montagem e execução
-Raul Braga da Costa - 16/0142954
+### Integrantes responsáveis pelos procedimentos de montagem e execução
+
+| Érick Marcelino | corte dos tubos e montagem do manômetro |  |
+|--|--|--|
+|Giovanni Rambo | montagem do compressor e juntas dos tubos |  |
+|--|--|--|
+|Raul Braga | estrutura de sustentação|  |
+
 ### Estimativa do tempo necessário
     
-De acordo com a avaliação feita pelo grupo e justificada no cronograma,a estimativa de finalização do projeto é de três semanas.
+De acordo com a avaliação feita pelo grupo e justificada no cronograma, a estimativa de finalização do projeto é de três semanas.
 
 ### Cronograma completo
 
 * **Semana 0 (07-14)**
 Dimensionamento e projeto do experimento.
 
-Será discutido quais componentes irão compor o sistema  para que seja possível avaliar a perda de carga de forma mais eficaz.
+Será discutido quais as dimensões dos componentes que irão compor o sistema, bem como sua disposição para que seja possível avaliar a perda de carga de forma mais eficaz.
 
 * **Semana 1 (14-19)**
 Orçamento, disponibilidade e compra de materiais.
 
-Com o dimensionamento do projeto,será feita a avaliação de custo e disponibilidade dos materiais.Prioritariamente essa avaliação será realizada em lojas físicas,caso ocorra de indisponibilidade ou custos elevados,a compra será feita pela internet.  
+Com o projeto dimensionado e esquematizado, será feita a avaliação de custo e disponibilidade dos materiais. Prioritariamente essa avaliação será realizada em lojas físicas, caso seja verificada a indisponibilidade dos produtos ou custos demasiadamente elevados, a compra será realizada pela internet.  
 
 * **Semana 2 (19-27)**
 Montagem e execução do experimento.
 
-Com a obtenção dos materiais,o sistema de tubos será completamente montado e vedado para que em seguida seja feita a execução do experimento assim como sua respectiva avaliação de perda de carga durante o escoamento.
+Em posse dos materiais, o sistema será completamente montado e vedado com tubos e acessórios (juntas e válvulas), para que em seguida seja feita a execução do experimento assim como sua respectiva avaliação de perda de carga durante o escoamento.
 
 * **Procedimento experimental**
 
-O sistema será montado com tubos e acessórios (juntas e válvulas) para os mesmos.Em seguida,após o período de um minuto para a completa estabilização,será utilizado um manômetro em U com óleo no início e no final do sistema para verificar a diferença de pressão ocorrida.
-A velocidade do escoamento também será verificada .Essa medição será feita somente com o compressor e um tubo de venturi ,ou seja, não estarão acoplados ao sistema.
+O sistema será iniciado ligando o compressor, após o período de 1 minuto para estabilização do fluxo de ar será anotado os valores constantes nos manômetros em U no início e no final do sistema para verificar a diferença de pressão ocorrida, bem como a indicação da velocidade pelo tubo de venturi acoplado ao compressor.
 
 * **Resultados Esperados**
 
