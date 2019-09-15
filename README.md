@@ -133,15 +133,50 @@ O sistema será iniciado ligando o compressor, após o período de 1 minuto para
      
 * Dutos
 
-    **Peça 6 e 7- Tubos de PVC 20mm e 25mm**
+    **Peça 6 e 7 - Tubos de PVC 20mm e 25mm**
     
-    ![canos pvc](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/canos.jpg
+    ![canos pvc](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/canos.jpg)
+    
+     |Característica|Definição|
+     |--|--|
+     |Material|PVC|
+     |Obtenção|Lojas de departamento|
+     
+     **Peça 8 - Válvula de retenção**
+    
+    ![valvula de retencao](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/valvula.png)
     
      |Característica|Definição|
      |--|--|
      |Material|PVC|
      |Obtenção|Lojas de departamento|
     
+    **Peça 9 - Bucha de redução**
+    
+    ![bucha de reducao](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/bucha.png)
+    
+     |Característica|Definição|
+     |--|--|
+     |Material|PVC|
+     |Obtenção|Lojas de departamento|
+     
+     **Peça 10 - Joelho 90 graus PVC**
+    
+    ![joelho 90grauas](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/joelho%2090graus.png)
+    
+     |Característica|Definição|
+     |--|--|
+     |Material|PVC|
+     |Obtenção|Lojas de departamento|
+     
+     **Peça 11 - Mangueira Crystal**
+    
+    ![mangueira](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/mangueira.png)
+    
+     |Característica|Definição|
+     |--|--|
+     |Material|Plástico|
+     |Obtenção|Lojas de departamento|
     
 ## **Relação completa de peças com quantidades**
 
