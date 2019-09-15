@@ -98,5 +98,5 @@ Foi realizado um orçamento prelimnar utilizando os valores encontrados via inte
 |Joelho 90° Marrom PVC Soldável 25mm ou 3/4" Plastilit|R$ 0,59|
 |Mangueira Crystal para Nível 1/4x1,0mm 5m|R$ 9,49|
 |Material para impressão|R$ 30,00|
-|**Total**|R$ 92,61|
+|**Total**|**R$ 92,61**|
 
