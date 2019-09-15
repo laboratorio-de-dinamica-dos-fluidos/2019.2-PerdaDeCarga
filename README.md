@@ -39,6 +39,11 @@ Para considerar cumpridos os objetivos do experimento deve-se, no mínimo:
 
 O grupo escolheu um experimento de complexidade razoável e custo tangível, determinando assim o experimento como viável. Será possível para o grupo se beneficiar do experimento, pois o mesmo possibilitará uma melhor assimilação dos conceitos da disciplina. Os resultados são previsíveis dentro de uma certa margem, viabilizando o procedimento de comprovação teórica.
 
+## Teoria do Experimento
+
+Busca-se entender como ocorre a queda de pressão associada aos efeitos viscosos, focando em escoamento interno em dutos circulares.
+
+
 ## Procedimento de montagem e execução
 
 ### Integrante responsável pelo procedimento de montagem e execução
