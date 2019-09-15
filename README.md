@@ -89,10 +89,9 @@ O sistema será iniciado ligando o compressor, após o período de 1 minuto para
     
     ![Rotor do compressor](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/rotor%20compressor.png)
     
-    | | |
     |--|--|
     |Material|PLA|
-    |Obtenção|Fabricação própria|
+    |Obtenção|Fabricação em impressão 3D|
 
 * **Lista de materiais**
 
