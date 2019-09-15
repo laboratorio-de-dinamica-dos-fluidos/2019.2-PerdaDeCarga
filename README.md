@@ -64,4 +64,13 @@ Montagem e execução do experimento.
 
 Com a obtenção dos materiais,o sistema de tubos será completamente montado e vedado para que em seguida seja feita a execução do experimento assim como sua respectiva avaliação de perda de carga durante o escoamento.
 
+* **Procedimento experimental**
+
+O sistema será montado com tubos e acessórios (juntas e válvulas) para os mesmos.Em seguida,após o período de um minuto para a completa estabilização,será utilizado um manômetro em U com óleo no início e no final do sistema para verificar a diferença de pressão ocorrida.
+A velocidade do escoamento também será verificada .Essa medição será feita somente com o compressor e um tubo de venturi ,ou seja, não estão acoplados ao sistema.
+
+* **Resultados Esperados**
+
+É esperado que haja uma variação da pressão(perda de carga) devido ao fluido  se locomover por todo o sistema,isso devido ao atrito ocorrido com as paredes dos tubos e também pela  turbulência devido às mudanças de direção do fluxo.
+
 
