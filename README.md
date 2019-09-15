@@ -82,9 +82,17 @@ O sistema será iniciado ligando o compressor, após o período de 1 minuto para
 
 É esperado que haja uma variação da pressão (perda de carga) devido aos efeitos viscosos verificados pelo fluido ao se locomover por todo o sistema bem como pelas perturbações geradas devido às mudanças de direção do fluxo.
 
+O experimento será montado para as seguintes configurações iniciais:
+
+![Setup Experimento](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/SETUP.png)
+
+Destas configurações, com base na teoria apresentada, espera-se os seguintes resultados
+
+![Resultados Esperados](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/RESULTADOS%20ESPERADOS.png)
+
 ## **Lista de componentes e peças**
 
-* Compressor
+* **COMPRESSOR**
 
      **Peça 1 - Rotor do compressor**
     
@@ -131,7 +139,7 @@ O sistema será iniciado ligando o compressor, após o período de 1 minuto para
      |Marca|Black+Decker|
      |Obtenção|Já obtida por integrante|
      
-* Dutos
+* **DUTOS**
 
     **Peça 6 e 7 - Tubos de PVC 20mm e 25mm**
     
@@ -195,6 +203,7 @@ Para o sistema projetado deverá ser obtida a seguinte lista de materiais
 |Rotor do compressor|1|
 |Case do compressor|1|
 |Base do compressor|1|
+|Micro Retífica Black+Decker|1|
 
 ## **Orçamento Preliminar**
 
