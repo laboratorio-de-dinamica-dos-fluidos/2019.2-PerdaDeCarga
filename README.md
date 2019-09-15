@@ -87,7 +87,7 @@ O sistema será iniciado ligando o compressor, após o período de 1 minuto para
 * Compressor
     **Peça 1 - Rotor do compressor**
     
-    ![github-small](Imagens/base compressor.png)
+    ![Rotor do compressor](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/base%20compressor.png)
     
     |Material|PLA|
     |Obtenção|Fabricação própria|
@@ -123,6 +123,5 @@ Foi realizado um orçamento prelimnar utilizando os valores encontrados via inte
 |Mangueira Crystal para Nível 1/4x1,0mm 5m|R$ 9,49|
 |Parafusos M3x10mm|R$ 4,66|
 |Material para impressão|R$ 30,00|
-
 |**Total**|**R$ 113,65**|
 
