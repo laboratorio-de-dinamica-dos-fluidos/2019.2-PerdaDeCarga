@@ -90,7 +90,7 @@ Destas configurações, com base na teoria apresentada, espera-se os seguintes r
 
 **REYNOLDS LAMINAR**
 
-![Resultados Esperados laminar](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/resultados%20esperados%20laminar.png)
+![Resultados Esperados laminar](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/resultados%20esperados%20laminar.png | width=200)
 
 **REYNOLDS TURBULENTO**
 
