@@ -78,13 +78,14 @@ Em posse dos materiais, o sistema e seus subsistemas serão completamente montad
 
 O sistema será iniciado ligando o compressor, após o período de 1 minuto para estabilização do fluxo de ar serão anotados os valores constantes nos manômetros em U, no início e no final do sistema, para verificar a diferença de pressão ocorrida, bem como a indicação da velocidade pelo tubo de venturi acoplado ao compressor.
 
-* **Resultados Esperados**
+## **Resultados Esperados**
 
 É esperado que haja uma variação da pressão (perda de carga) devido aos efeitos viscosos verificados pelo fluido ao se locomover por todo o sistema bem como pelas perturbações geradas devido às mudanças de direção do fluxo.
 
-* **Lista de componentes e peças**
+## **Lista de componentes e peças**
 
 * Compressor
+
     **Peça 1 - Rotor do compressor**
     
     ![Rotor do compressor](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/rotor%20compressor.png)
@@ -94,7 +95,7 @@ O sistema será iniciado ligando o compressor, após o período de 1 minuto para
     |Material|PLA|
     |Obtenção|Fabricação em impressão 3D|
 
-* **Lista de materiais**
+## **Lista de materiais**
 
 Para o sistema projetado deverá ser obtida a seguinte lista de materiais
 
@@ -110,7 +111,7 @@ Para o sistema projetado deverá ser obtida a seguinte lista de materiais
 |Parafusos M3x10mm|6|
 |Material para impressão|1|
 
-* **Orçamento Preliminar**
+## **Orçamento Preliminar**
 
 Foi realizado um orçamento prelimnar utilizando os valores encontrados via internet no site da empresa Leroy Merlin e será utilizado como base para o orçamento a ser realizado presencialmente na loja física da empresa já citada. Devido à utilização de peças impressas em 3D, foi adicionado ao projeto uma verba para despesas com o serviço. Os valores por unidade e o  valor total levando em consideração a quantidade de peças constam na tabela abaixo:
 
