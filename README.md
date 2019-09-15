@@ -86,9 +86,15 @@ O experimento será montado para as seguintes configurações iniciais:
 
 ![Setup Experimento](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/SETUP.png)
 
-Destas configurações, com base na teoria apresentada, espera-se os seguintes resultados
+Destas configurações, com base na teoria apresentada, espera-se os seguintes resultados:
 
-![Resultados Esperados](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/RESULTADOS%20ESPERADOS.png)
+**REYNOLDS LAMINAR**
+
+![Resultados Esperados laminar](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/resultados%20esperados%20laminar.png)
+
+**REYNOLDS TURBULENTO**
+
+![Resultados Esperados turbulento](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/RESULTADOS%20ESPERADOS.png)
 
 ## **Lista de componentes e peças**
 
