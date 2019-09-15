@@ -59,27 +59,44 @@ De acordo com a avaliação feita pelo grupo e justificada no cronograma, a esti
 
 ### Cronograma completo
 
-* **Semana 0 (07-14)**
+* **Semana 0 (07/09-14/09)**
 Dimensionamento e projeto do experimento.
 
 Será discutido quais as dimensões dos componentes que irão compor o sistema, bem como sua disposição para que seja possível avaliar a perda de carga de forma mais eficaz.
 
-* **Semana 1 (14-19)**
+* **Semana 1 (14/09-19/09)**
 Orçamento, disponibilidade e compra de materiais.
 
-Com o projeto dimensionado e esquematizado, será feita a avaliação de custo e disponibilidade dos materiais. Prioritariamente essa avaliação será realizada em lojas físicas, caso seja verificada a indisponibilidade dos produtos ou custos demasiadamente elevados, a compra será realizada pela internet.  
+Com o projeto dimensionado e esquematizado, será feita a avaliação de custo e disponibilidade dos materiais. Inicialmente essa avaliação será realizada em lojas físicas, caso seja verificada a indisponibilidade dos produtos ou custos demasiadamente elevados, a compra será realizada pela internet.
 
-* **Semana 2 (19-27)**
+* **Semana 2 (19/09-27/09)**
 Montagem e execução do experimento.
 
-Em posse dos materiais, o sistema será completamente montado e vedado com tubos e acessórios (juntas e válvulas), para que em seguida seja feita a execução do experimento assim como sua respectiva avaliação de perda de carga durante o escoamento.
+Em posse dos materiais, o sistema e seus subsistemas serão completamente montados e vedados com tubos e acessórios (juntas e válvulas), para que em seguida seja feita a execução do experimento assim como sua respectiva avaliação de perda de carga durante o escoamento.
 
 * **Procedimento experimental**
 
-O sistema será iniciado ligando o compressor, após o período de 1 minuto para estabilização do fluxo de ar será anotado os valores constantes nos manômetros em U no início e no final do sistema para verificar a diferença de pressão ocorrida, bem como a indicação da velocidade pelo tubo de venturi acoplado ao compressor.
+O sistema será iniciado ligando o compressor, após o período de 1 minuto para estabilização do fluxo de ar serão anotados os valores constantes nos manômetros em U, no início e no final do sistema, para verificar a diferença de pressão ocorrida, bem como a indicação da velocidade pelo tubo de venturi acoplado ao compressor.
 
 * **Resultados Esperados**
 
-É esperado que haja uma variação da pressão(perda de carga) devido ao fluido  se locomover por todo o sistema,isso por causa do atrito ocorrido com as paredes dos tubos e também pela turbulência devido às mudanças de direção do fluxo.
+É esperado que haja uma variação da pressão (perda de carga) devido aos efeitos viscosos verificados pelo fluido ao se locomover por todo o sistema bem como pelas perturbações geradas devido às mudanças de direção do fluxo.
 
+* **Relações de peças**
+
+* **Orçamento Preliminar**
+
+Foi realizado um orçamento prelimnar utilizando os valores encontrados via internet no site da empresa Leroy Merlin e será utilizado como base para o orçamento a ser realizado presencialmente na loja física da empresa já citada. Devido à utilização de peças impressas em 3D, foi adicionado ao projeto uma verba para despesas com o serviço. Os valores encontrados e o total levando em consideração a quantidade de peças constam na tabela abaixo:
+
+| Componente | Valor |
+|--|--|
+|Cano Marrom PVC Soldável 25mm ou 3/4" 3m Tigre|R$ 8,99|
+|Cano Marrom PVC Soldável 20mm ou 1/2" 3m Equation|R$ 7,39|
+|Válvula de Retenção Marrom PVC Roscável 25mm ou 3/4" Tigre|R$ 29,90|
+|Bucha de Redução Curta Marrom PVC Soldável 25x20mm ou 3/4"x1/2" Tigre|R$ 0,54|
+|Joelho 90° Marrom PVC Soldável 20mm ou 1/2" Plastilit|R$ 0,46|
+|Joelho 90° Marrom PVC Soldável 25mm ou 3/4" Plastilit|R$ 0,59|
+|Mangueira Crystal para Nível 1/4x1,0mm 5m|R$ 9,49|
+|Material para impressão|R$ 30,00|
+|**Total**|R$ 92,61|
 
