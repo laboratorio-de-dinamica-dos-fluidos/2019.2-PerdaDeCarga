@@ -47,11 +47,11 @@ Busca-se entender como ocorre a queda de pressão associada aos efeitos viscosos
 
 ### Integrantes responsáveis pelos procedimentos de montagem e execução
 
-| Érick Marcelino | corte dos tubos e montagem do manômetro |  |
+| Integrante | Montagem | Execução |
 |--|--|--|
-|Giovanni Rambo | montagem do compressor e juntas dos tubos |  |
-|--|--|--|
-|Raul Braga | estrutura de sustentação|  |
+| Érick Marcelino | Corte dos tubos e montagem do manômetro | Realizar leituras |
+| Giovanni Rambo | Montagem do compressor e juntas dos tubos | Inicializar e verificar o sistema |
+| Raul Braga | Estrutura de sustentação | Realizar leituras |
 
 ### Estimativa do tempo necessário
     
