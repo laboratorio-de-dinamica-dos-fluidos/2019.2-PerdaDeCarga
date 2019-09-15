@@ -74,7 +74,7 @@ Montagem e execução do experimento.
 
 Em posse dos materiais, o sistema e seus subsistemas serão completamente montados e vedados com tubos e acessórios (juntas e válvulas), para que em seguida seja feita a execução do experimento assim como sua respectiva avaliação de perda de carga durante o escoamento.
 
-* **Procedimento experimental**
+## **Procedimento experimental**
 
 O sistema será iniciado ligando o compressor, após o período de 1 minuto para estabilização do fluxo de ar serão anotados os valores constantes nos manômetros em U, no início e no final do sistema, para verificar a diferença de pressão ocorrida, bem como a indicação da velocidade pelo tubo de venturi acoplado ao compressor.
 
@@ -86,16 +86,34 @@ O sistema será iniciado ligando o compressor, após o período de 1 minuto para
 
 * Compressor
 
-    **Peça 1 - Rotor do compressor**
+     **Peça 1 - Rotor do compressor**
     
-    ![Rotor do compressor](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/rotor%20compressor.png)
+     ![Rotor do compressor](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/rotor%20compressor.png)
     
-    |Característica|Definição|
-    |--|--|
-    |Material|PLA|
-    |Obtenção|Fabricação em impressão 3D|
+     |Característica|Definição|
+     |--|--|
+     |Material|PLA|
+     |Obtenção|Fabricação em impressão 3D|
+        
+     **Peça 2 - Base do compressor**
+    
+     ![Rotor do compressor](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/base%20compressor.png)
+    
+     |Característica|Definição|
+     |--|--|
+     |Material|PLA|
+     |Obtenção|Fabricação em impressão 3D|
+        
+     **Peça 3 - Case do compressor**
+    
+     ![Rotor do compressor](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/case%20compressor.png)
+    
+     |Característica|Definição|
+     |--|--|
+     |Material|PLA|
+     |Obtenção|Fabricação em impressão 3D|
 
-## **Lista de materiais**
+## **Relação completa de peças**
 
 Para o sistema projetado deverá ser obtida a seguinte lista de materiais
 
@@ -109,7 +127,9 @@ Para o sistema projetado deverá ser obtida a seguinte lista de materiais
 |Joelho 90° Marrom PVC Soldável 25mm ou 3/4" Plastilit|6|
 |Mangueira Crystal para Nível 1/4x1,0mm 5m|1|
 |Parafusos M3x10mm|6|
-|Material para impressão|1|
+|Rotor do compressor|1|
+|Case do compressor|1|
+|Base do compressor|1|
 
 ## **Orçamento Preliminar**
 
