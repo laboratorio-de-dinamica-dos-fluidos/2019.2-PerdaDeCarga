@@ -71,6 +71,6 @@ A velocidade do escoamento também será verificada .Essa medição será feita 
 
 * **Resultados Esperados**
 
-É esperado que haja uma variação da pressão(perda de carga) devido ao fluido  se locomover por todo o sistema,isso devido ao atrito ocorrido com as paredes dos tubos e também pela  turbulência devido às mudanças de direção do fluxo.
+É esperado que haja uma variação da pressão(perda de carga) devido ao fluido  se locomover por todo o sistema,isso por causa do atrito ocorrido com as paredes dos tubos e também pela turbulência devido às mudanças de direção do fluxo.
 
 
