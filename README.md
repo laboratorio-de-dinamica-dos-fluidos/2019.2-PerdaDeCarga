@@ -55,7 +55,7 @@ Busca-se entender como ocorre a queda de pressão associada aos efeitos viscosos
 
 ### Estimativa do tempo necessário
     
-De acordo com a avaliação feita pelo grupo e justificada no cronograma, a estimativa de finalização do projeto é de três semanas.
+De acordo com a avaliação feita pelo grupo e justificada no cronograma, a estimativa de finalização do projeto é de três semanas e contempla possíveis atrasos e questões internas do grupo.
 
 ### Cronograma completo
 
@@ -76,7 +76,7 @@ Em posse dos materiais, o sistema e seus subsistemas serão completamente montad
 
 ## **Procedimento experimental**
 
-O sistema será iniciado ligando o compressor, após o período de 1 minuto para estabilização do fluxo de ar serão anotados os valores constantes nos manômetros em U, no início e no final do sistema, para verificar a diferença de pressão ocorrida, bem como a indicação da velocidade pelo tubo de venturi acoplado ao compressor.
+O sistema será iniciado ligando o compressor, após o período de 1 minuto para estabilização do fluxo de ar serão anotados os valores constantes nos manômetros em U, no início e no final do sistema, para verificar a diferença de pressão ocorrida, bem como a indicação da velocidade pelo tubo de venturi acoplado ao compressor no início do sistema.
 
 ## **Resultados Esperados**
 
