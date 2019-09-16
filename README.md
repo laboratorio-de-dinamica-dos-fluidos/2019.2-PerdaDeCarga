@@ -59,33 +59,33 @@ De acordo com a avaliação feita pelo grupo e justificada no cronograma, a esti
 
 ### Cronograma completo
 
-* **Etapa 0 (07/09-14/09)**-
+* **Etapa 0 (07/09-14/09)** -
 Dimensionamento e projeto do experimento.
 
 Será discutido quais as dimensões dos componentes que irão compor o sistema, bem como sua disposição para que seja possível avaliar a perda de carga de forma mais eficaz.
 
-* **Etapa 1 (14/09-19/09)**-
+* **Etapa 1 (14/09-19/09)** -
 Orçamento, disponibilidade e compra de materiais.
 
 Com o projeto dimensionado e esquematizado, será feita a avaliação de custo e disponibilidade dos materiais. Inicialmente essa avaliação será realizada em lojas físicas, caso seja verificada a indisponibilidade dos produtos ou custos demasiadamente elevados, a compra será realizada pela internet.
 
-* **Etapa 2 (19/09-27/09)**-
+* **Etapa 2 (19/09-27/09)** -
 Montagem e execução do experimento.
 
 Em posse dos materiais, o sistema e seus subsistemas serão completamente montados e vedados com tubos e acessórios (juntas e válvulas), para que em seguida seja feita a execução do experimento assim como sua respectiva avaliação de perda de carga durante o escoamento.
 
-* **Etapa 3 (27/09-01/10)**-
+* **Etapa 3 (27/09-01/10)** -
 Precaução
 
 Essa etapa consiste em um tempo bônus caso ocorram problemas na montagem ou na execução do experimento.Caso não seja necessário,essa etapa será ignorada e a seguinte antecipada.
 
 
-* **Etapa 4 (01/10-08/10)**-
+* **Etapa 4 (01/10-08/10)** -
 Análise dos dados e escrita do relatório
 
 Com os dados obtidos da realização do experimento,serão feitas analises em comparação com a teoria para que a posteriore ocorra a escrita do relatório.
 
-* **Etapa 5 (08/10-11/10)**-
+* **Etapa 5 (08/10-11/10)** -
 Revisão do relatório
 
 A partir do término do relatório será realizada a semana de revisão onde , caso necessário,os integrantes do grupo irão complementar o relatório em suas partes avaliadas como insatisfatórias.
