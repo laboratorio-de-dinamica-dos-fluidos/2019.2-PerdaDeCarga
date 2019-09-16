@@ -84,7 +84,7 @@ O sistema será iniciado ligando o compressor, após o período de 1 minuto para
 
 O experimento será montado para as seguintes configurações iniciais:
 
-![Setup Experimento](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/SETUP.png)
+<img src="https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/SETUP.png" width="500">
 
 Destas configurações, com base na teoria apresentada, espera-se os seguintes resultados:
 
@@ -94,9 +94,9 @@ Destas configurações, com base na teoria apresentada, espera-se os seguintes r
 
 **REYNOLDS TURBULENTO**
 
-![test](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/RESULTADOS%20ESPERADOS.png | width=48)
+<img src="https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/RESULTADOS%20ESPERADOS.png" width="500">
 
-![Resultados Esperados turbulento](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/RESULTADOS%20ESPERADOS.png )
+![Resultados Esperados turbulento]()
 
 ## **Lista de componentes e peças**
 
@@ -104,7 +104,7 @@ Destas configurações, com base na teoria apresentada, espera-se os seguintes r
 
      **Peça 1 - Rotor do compressor**
     
-     ![Rotor do compressor](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/rotor%20compressor.png)
+     <img src="https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/rotor%20compressor.png" width="500">
     
      |Característica|Definição|
      |--|--|
@@ -113,7 +113,7 @@ Destas configurações, com base na teoria apresentada, espera-se os seguintes r
         
      **Peça 2 - Base do compressor**
     
-     ![Rotor do compressor](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/base%20compressor.png)
+    <img src="https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/base%20compressor.png" width="500">
     
      |Característica|Definição|
      |--|--|
