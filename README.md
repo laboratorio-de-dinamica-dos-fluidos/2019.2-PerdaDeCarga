@@ -96,8 +96,6 @@ Destas configurações, com base na teoria apresentada, espera-se os seguintes r
 
 <img src="https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/RESULTADOS%20ESPERADOS.png" width="500">
 
-![Resultados Esperados turbulento]()
-
 ## **Lista de componentes e peças**
 
 * **COMPRESSOR**
@@ -122,7 +120,7 @@ Destas configurações, com base na teoria apresentada, espera-se os seguintes r
         
      **Peça 3 - Case do compressor**
     
-     ![Rotor do compressor](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/case%20compressor.png)
+    <img src="https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/case%20compressor.png" width="500">
     
      |Característica|Definição|
      |--|--|
@@ -131,7 +129,7 @@ Destas configurações, com base na teoria apresentada, espera-se os seguintes r
      
      **Peça 4 - Parafusos M3x10mm para o compressor**
     
-     ![parafuso m3 do compressor](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/TB1U9nRagLD8KJjSszeXXaGRpXa.jpg)
+    <img src="https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/TB1U9nRagLD8KJjSszeXXaGRpXa.jpg" width="500">
     
      |Característica|Definição|
      |--|--|
@@ -140,7 +138,7 @@ Destas configurações, com base na teoria apresentada, espera-se os seguintes r
      
      **Peça 5 - Micro retífica como motor para o compressor**
     
-     ![micro retífica](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/micro%20retifica.jpg)
+    <img src="https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/micro%20retifica.jpg" width="500">
     
      |Característica|Definição|
      |--|--|
@@ -151,7 +149,7 @@ Destas configurações, com base na teoria apresentada, espera-se os seguintes r
 
     **Peça 6 e 7 - Tubos de PVC 20mm e 25mm**
     
-    ![canos pvc](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/canos.jpg)
+    <img src="https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/canos.jpg" width="500">
     
      |Característica|Definição|
      |--|--|
@@ -160,7 +158,7 @@ Destas configurações, com base na teoria apresentada, espera-se os seguintes r
      
      **Peça 8 - Válvula de retenção**
     
-    ![valvula de retencao](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/valvula.png)
+    <img src="https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/valvula.png" width="500">
     
      |Característica|Definição|
      |--|--|
@@ -169,7 +167,7 @@ Destas configurações, com base na teoria apresentada, espera-se os seguintes r
     
     **Peça 9 - Bucha de redução**
     
-    ![bucha de reducao](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/bucha.png)
+    <img src="https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/bucha.png" width="500">
     
      |Característica|Definição|
      |--|--|
@@ -178,7 +176,7 @@ Destas configurações, com base na teoria apresentada, espera-se os seguintes r
      
      **Peça 10 - Joelho 90 graus PVC**
     
-    ![joelho 90grauas](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/joelho%2090graus.png)
+    <img src="https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/joelho%2090graus.png" width="500">
     
      |Característica|Definição|
      |--|--|
@@ -187,7 +185,7 @@ Destas configurações, com base na teoria apresentada, espera-se os seguintes r
      
      **Peça 11 - Mangueira Crystal**
     
-    ![mangueira](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/mangueira.png)
+    <img src="https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/mangueira.png" width="500">
     
      |Característica|Definição|
      |--|--|
