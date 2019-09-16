@@ -59,7 +59,7 @@ De acordo com a avaliação feita pelo grupo e justificada no cronograma, a esti
 
 ### Cronograma completo
 
-* **Semana 0 (07/09-14/09)**
+* **Etapa 0 (07/09-14/09)**
 Dimensionamento e projeto do experimento.
 
 Será discutido quais as dimensões dos componentes que irão compor o sistema, bem como sua disposição para que seja possível avaliar a perda de carga de forma mais eficaz.
