@@ -55,7 +55,7 @@ Busca-se entender como ocorre a queda de pressão associada aos efeitos viscosos
 
 ### Estimativa do tempo necessário
     
-De acordo com a avaliação feita pelo grupo e justificada no cronograma, a estimativa de finalização do projeto é de três semanas e contempla possíveis atrasos e questões internas do grupo.
+De acordo com a avaliação feita pelo grupo e justificada no cronograma, a estimativa de finalização do projeto é de quatro semanas e oito dias e contempla possíveis atrasos e questões internas do grupo.
 
 ### Cronograma completo
 
