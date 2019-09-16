@@ -74,6 +74,17 @@ Montagem e execução do experimento.
 
 Em posse dos materiais, o sistema e seus subsistemas serão completamente montados e vedados com tubos e acessórios (juntas e válvulas), para que em seguida seja feita a execução do experimento assim como sua respectiva avaliação de perda de carga durante o escoamento.
 
+* **Semana 3 (27/09-04/10)**
+Análise dos dados e escrita do relatório
+
+Com os dados obtidos da realização do experimento,serão feitas analises em comparação com a teoria para que a posteriore ocorra a escrita do relatório.
+
+* **Semana 4 (04/10-11/10)**
+Revisão do relatório
+
+A partir do término do relatório será realizada a semana de revisão onde , caso necessário,os integrantes do grupo irão complementar o relatório em suas partes avaliadas como insatisfatórias.
+
+
 ## **Procedimento experimental**
 
 O sistema será iniciado ligando o compressor, após o período de 1 minuto para estabilização do fluxo de ar serão anotados os valores constantes nos manômetros em U, no início e no final do sistema, para verificar a diferença de pressão ocorrida, bem como a indicação da velocidade pelo tubo de venturi acoplado ao compressor no início do sistema.
