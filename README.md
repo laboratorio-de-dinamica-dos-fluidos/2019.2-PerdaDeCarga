@@ -94,7 +94,9 @@ Destas configurações, com base na teoria apresentada, espera-se os seguintes r
 
 **REYNOLDS TURBULENTO**
 
-![Resultados Esperados turbulento](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/RESULTADOS%20ESPERADOS.png)
+![test](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/RESULTADOS%20ESPERADOS.png | width=48)
+
+![Resultados Esperados turbulento](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/RESULTADOS%20ESPERADOS.png )
 
 ## **Lista de componentes e peças**
 
