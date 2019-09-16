@@ -215,7 +215,7 @@ Para o sistema projetado deverá ser obtida a seguinte lista de materiais
 
 Foi realizado um orçamento prelimnar utilizando os valores encontrados via internet no site da empresa Leroy Merlin e será utilizado como base para o orçamento a ser realizado presencialmente na loja física da empresa já citada. Devido à utilização de peças impressas em 3D, foi adicionado ao projeto uma verba para despesas com o serviço. Para o cálculo do orçamento foi omitido o valor de itens de posse dos integrantes do grupo. Os valores por unidade e o valor total dos itens a serem comprados, levando em consideração a quantidade de peças, constam na tabela abaixo:
 
-| Componente | Valor |
+| Componente | Valor unitário |
 |--|--|
 |Cano Marrom PVC Soldável 25mm ou 3/4" 3m Tigre|R$ 8,99|
 |Cano Marrom PVC Soldável 20mm ou 1/2" 3m Equation|R$ 7,39|
