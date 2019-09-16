@@ -74,8 +74,8 @@ Montagem e execução do experimento.
 
 Em posse dos materiais, o sistema e seus subsistemas serão completamente montados e vedados com tubos e acessórios (juntas e válvulas), para que em seguida seja feita a execução do experimento assim como sua respectiva avaliação de perda de carga durante o escoamento.
 
-* **Etapa 3 (27/09-01/10)
-Tempo extra
+* **Etapa 3 (27/09-01/10)**
+Precaução
 
 Essa etapa consiste em um tempo bônus caso ocorram problemas na montagem ou na execução do experimento.Caso não seja necessário,essa etapa será ignorada e a seguinte antecipada.
 
