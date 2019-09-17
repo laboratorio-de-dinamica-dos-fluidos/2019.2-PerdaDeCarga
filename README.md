@@ -43,7 +43,7 @@ O grupo escolheu um experimento de complexidade razoável e custo tangível, det
 
 Busca-se entender como ocorre a queda de pressão associada aos efeitos viscosos, focando em escoamento interno em dutos circulares.
 Para isso, é importante definir um parâmetro de escoamentos viscosos que é o número de Reynolds (Re):
-
+![Numero de Reynolds](Re.gif)
 
 ## Procedimento de montagem e execução
 
