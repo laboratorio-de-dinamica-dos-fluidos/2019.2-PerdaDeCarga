@@ -53,12 +53,13 @@ Para isso, é importante definir um parâmetro de escoamentos viscosos que é o 
    
    ![Numero de Reynolds 2](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/ReD.gif)
    
-   Para analisar o escoamento, considera-se a equação de Bernoulli com auxílio da perda de carga por atrito (hf) sendo o termo para
-compensar a perda de carga:
+   Para analisar o escoamento, considera-se a equação de Bernoulli com auxílio da perda de carga por atrito (hf) sendo o termo para compensar a perda de carga:
 
-   ![Bernoulli usando hf](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/Bernoullihf.gif)
+   ![Bernoulli usando hf 1](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/Bernoullihf.gif)
    
-   Usando a lei de conservação de massa em um duto circular no qual a área de seção é constante, 
+   Quando se usa a lei de conservação de massa em um duto circular no qual a área de seção é constante, pode-se afirmar que a velocidade média é constante ao longo do duto em situações de escoamento incompressível. À luz do exposto, e desprezando a diferença de altura entre os pontos 1 e 2, obtém-se:
+   
+   ![Bernoulli usando hf 2]()
 
 ## Procedimento de montagem e execução
 
