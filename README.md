@@ -44,12 +44,14 @@ O grupo escolheu um experimento de complexidade razoável e custo tangível, det
 Busca-se entender como ocorre a queda de pressão associada aos efeitos viscosos, focando em escoamento interno em dutos circulares.
 Para isso, é importante definir um parâmetro de escoamentos viscosos que é o número de Reynolds (Re):
 
-   ![Numero de Reynolds](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/Re.gif)
+   ![Numero de Reynolds 1](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/Re.gif)
    
    onde: (ρref) é a massa específica de referência, (Vref) é a velocidade de referência do escoamento, (Lref) é o comprimento característico de referência e (µref) é a viscosidade de referência.
    
    Para cada caso de escoamento se define os valores de referência. Neste experimento (ρref) será a massa específica
-   do ar, (Vref) velocidade média de escoamento do ar, (Lref=D) diâmetro de duto circular e (µref) será a viscosidade do ar.
+   do ar (ρ), (Vref) velocidade média de escoamento do ar (V), (Lref) diâmetro de duto circular (D) e (µref) será a viscosidade do ar (µ). Assim sendo, temos:
+   
+   ![Numero de Reynolds 2](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/ReD.gif)
 
 ## Procedimento de montagem e execução
 
