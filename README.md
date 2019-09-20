@@ -57,6 +57,8 @@ Para isso, é importante definir um parâmetro de escoamentos viscosos que é o 
 compensar a perda de carga:
 
    ![Bernoulli usando hf](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/Bernoullihf.gif)
+   
+   Usando a lei de conservação de massa em um duto circular no qual a área de seção é constante, 
 
 ## Procedimento de montagem e execução
 
