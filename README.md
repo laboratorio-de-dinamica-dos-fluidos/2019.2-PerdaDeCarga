@@ -53,7 +53,10 @@ Para isso, é importante definir um parâmetro de escoamentos viscosos que é o 
    
    ![Numero de Reynolds 2](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/ReD.gif)
    
-   Para analisar o escoamento, considera-se a equação de Bernoulli com auxílio da perda de carga por atrito (hf)
+   Para analisar o escoamento, considera-se a equação de Bernoulli com auxílio da perda de carga por atrito (hf) sendo o termo para
+compensar a perda de carga:
+
+   ![Bernoulli usando hf](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/Bernoullihf.gif)
 
 ## Procedimento de montagem e execução
 
