@@ -41,7 +41,7 @@ O grupo escolheu um experimento de complexidade razoável e custo tangível, det
 
 ## Teoria do Experimento
 
-Busca-se entender como ocorre a queda de pressão associada aos efeitos viscosos, focando em escoamento interno em dutos circulares.
+   Busca-se entender como ocorre a queda de pressão associada aos efeitos viscosos, focando em escoamento interno em dutos circulares.
 Para isso, é importante definir um parâmetro de escoamentos viscosos que é o número de Reynolds (Re):
 
    ![Numero de Reynolds 1](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/Re.gif)
@@ -52,6 +52,8 @@ Para isso, é importante definir um parâmetro de escoamentos viscosos que é o 
    do ar (ρ), (Vref) velocidade média de escoamento do ar (V), (Lref) diâmetro de duto circular (D) e (µref) será a viscosidade do ar (µ). Assim sendo, temos:
    
    ![Numero de Reynolds 2](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/ReD.gif)
+   
+   Para analisar o escoamento, considera-se a equação de Bernoulli com auxílio da perda de carga por atrito (hf)
 
 ## Procedimento de montagem e execução
 
