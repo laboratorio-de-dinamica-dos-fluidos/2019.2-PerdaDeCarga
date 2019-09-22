@@ -263,3 +263,6 @@ Foi realizado um orçamento prelimnar utilizando os valores encontrados via inte
 |Material para impressão|R$ 30,00|
 |**Total**|**R$ 113,65**|
 
+## **Experimento - Montagem**
+
+![Experimento](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/Experimento.png)
