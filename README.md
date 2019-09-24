@@ -266,4 +266,5 @@ Foi realizado um orçamento prelimnar utilizando os valores encontrados via inte
 ## **Experimento - Montagem**
 
 ![Experimento](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/Experimento.png)
+
 ![ExperimentoVideo](https://youtu.be/mPNeM4el2k8)
