@@ -267,4 +267,5 @@ Foi realizado um orçamento prelimnar utilizando os valores encontrados via inte
 
 ![Experimento](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/Experimento.png)
 
-[![Video Youtube](https://img.youtube.com/vi/mPNeM4el2k8)](https://www.youtube.com/watch?v=mPNeM4el2k8)
+[![Video Youtube](https://img.youtube.com/vi/v=Vb9hZSpiAEQ)](https://www.youtube.com/watch?v=Vb9hZSpiAEQ)
+[![Alternate Text]({https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/3.jpg})]({https://www.youtube.com/watch?v=Vb9hZSpiAEQ} "Link Title")
