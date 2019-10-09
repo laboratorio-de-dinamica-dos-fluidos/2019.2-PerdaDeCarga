@@ -22,7 +22,7 @@ A relação entre a variação da área da seção transversal dos dutos e a per
 Para a realização do experimento, é importante a construção de um sistema na qual o experimento será realizado. Como requisitos desse sistema temos:
 
 * Serão utilizados dutos de seção circular fabricados em PVC cor marrom.
-* Os trechos serão posicionados na horizontal e interligados de forma que o sistema será montado de modo a crescer na vertical, ou seja, os trechos estarão dispostos um acima do outro.
+* Os trechos serão posicionados na horizontal.
 * Os trechos terão dimensões diferentes de seção transversal, constantes em cada trecho.
 * A mudança de seção transversal não contará com bocais ou difusores.
 * O sistema será avaliado utilizando 2 diferentes métodos de instalação da máquinas de fluido (compressor), sendo: um exaustor no final do sistema, e um ventilador com e sem homogeneizador de fluxo no início do sistema.
