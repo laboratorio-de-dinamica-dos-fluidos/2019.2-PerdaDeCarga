@@ -111,7 +111,7 @@ A partir do término do relatório será realizada a semana de revisão onde , c
 
 ## **Procedimento experimental**
 
-O sistema será iniciado ligando o compressor, após o período de 1 minuto para estabilização do fluxo de ar serão anotados os valores constantes nos manômetros em U, no início e no final do sistema, para verificar a diferença de pressão ocorrida, bem como a indicação da velocidade pelo tubo de venturi acoplado ao compressor no início do sistema.
+O sistema inicialmente  será ligado ao compressor.Após o período de 1 minuto para estabilização do fluxo de ar serão anotados os valores constantes nos manômetros em U, no início e no final do sistema, para verificar a diferença de pressão ocorrida, bem como a indicação da velocidade pelo tubo de venturi acoplado ao compressor no início do sistema.
 
 ## **Resultados Esperados**
 
