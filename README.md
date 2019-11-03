@@ -288,15 +288,11 @@ As medidas do deslocamento em módulo encontradas foram as seguintes:
 
 **Velocidade 1**
 
-Média: 0,18cm
-Variância: 0,0006
-Desvio Padrão: 0,024495
+Média: 0,18cm  |  Variância: 0,0006  |  Desvio Padrão: 0,024495
 
 **Velocidade 2**
 
-Média: 0,4
-Variância: 0,001
-Desvio Padrão: 0,031623
+Média: 0,4cm  |  Variância: 0,001  |  Desvio Padrão: 0,031623
 
 * Terminais
 
@@ -310,12 +306,8 @@ Desvio Padrão: 0,031623
 
 **Velocidade 1**
 
-Média: 1,21cm
-Variância: 0,0004
-Desvio Padrão: 0,02
+Média: 1,21cm  |  Variância: 0,0004  |  Desvio Padrão: 0,02
 
 **Velocidade 2**
 
-Média: 5,16cm
-Variância: 0,0014
-Desvio Padrão: 0,037417
+Média: 5,16cm  |  Variância: 0,0014  |  Desvio Padrão: 0,037417
