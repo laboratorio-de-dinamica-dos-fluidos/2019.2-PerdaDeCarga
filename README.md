@@ -287,11 +287,13 @@ As medidas do deslocamento em módulo encontradas foram as seguintes:
 |0,15cm |0,40cm |
 
 **Velocidade 1**
+
 Média: 0,18cm
 Variância: 0,0006
 Desvio Padrão: 0,024495
 
 **Velocidade 2**
+
 Média: 0,4
 Variância: 0,001
 Desvio Padrão: 0,031623
@@ -307,11 +309,13 @@ Desvio Padrão: 0,031623
 |1,25cm |5,10cm |
 
 **Velocidade 1**
+
 Média: 1,21cm
 Variância: 0,0004
 Desvio Padrão: 0,02
 
 **Velocidade 2**
+
 Média: 5,16cm
 Variância: 0,0014
 Desvio Padrão: 0,037417
