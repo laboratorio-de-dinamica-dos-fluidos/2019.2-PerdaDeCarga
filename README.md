@@ -312,4 +312,3 @@ Média: 1,21cm  |  Variância: 0,0004  |  Desvio Padrão: 0,02
 
 Média: 5,16cm  |  Variância: 0,0014  |  Desvio Padrão: 0,037417
 
-Após a análise dos dados, a critério do grupo, pode ser necessária a repetição do experimento para checagem das medidas.
