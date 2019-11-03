@@ -270,6 +270,21 @@ Foi realizado um orçamento prelimnar utilizando os valores encontrados via inte
 ## Link video YouTube
 [![Experimento Dinâmica dos Fluidos](https://i.ibb.co/4RW4KT9/https-i-ytimg-com-vi-Vb9h-ZSpi-AEQ-hqdefault.jpg)](https://www.youtube.com/watch?v=Vb9hZSpiAEQ "Experimento Dinâmica dos Fluidos")
 
+## **Experimento - Pré-medição 1**
+
+![Experimento](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/DINFLU%20NOVO%20(1).jpeg)
+
+## **Experimento - Pré-medição 2**
+
+![Experimento](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/DINFLU%20NOVO%20(2).jpeg)
+
+## **Experimento - Pré-medição 3**
+
+![Experimento](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/DINFLU%20NOVO%20(3).jpeg)
+
+## Link video YouTube (novo vídeo)
+[![Experimento Dinâmica dos Fluidos](https://i.ibb.co/5kx1xVp/https-i-ytimg-com-vi-xh-AO-m0-H8-U-maxresdefault.jpg)](https://youtu.be/xhAO_m0H8_U "https://youtu.be/xhAO_m0H8_U")
+
 ## Dados experimentais
 
 Após a montagem completa do experimento, foram realizadas medidas do deslocamento dos meniscos nos manometros em U conectados ao tubo de venturi e aos terminais do sistema de dutos.
