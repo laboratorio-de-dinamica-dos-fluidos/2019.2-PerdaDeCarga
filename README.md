@@ -60,6 +60,10 @@ Para isso, é importante definir um parâmetro de escoamentos viscosos que é o 
    Quando se usa a lei de conservação de massa em um duto circular no qual a área de seção é constante, pode-se afirmar que a velocidade média é constante ao longo do duto em situações de escoamento incompressível. À luz do exposto, e desprezando a diferença de altura entre os pontos 1 e 2, obtém-se:
    
    ![Bernoulli usando hf 2](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/Bernoullihf2.gif)
+   
+   Mas a perda de carga por atrito é dada por:
+   
+   ![Perda de carga por atrito](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/Hf.gif)
 
 ## Procedimento de montagem e execução
 
