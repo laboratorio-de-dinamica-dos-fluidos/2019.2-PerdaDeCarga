@@ -331,3 +331,12 @@ Média: 1,21cm  |  Variância: 0,0004  |  Desvio Padrão: 0,02
 
 Média: 5,16cm  |  Variância: 0,0014  |  Desvio Padrão: 0,037417
 
+#Apresentação de gráficos e análises
+
+**Perdas obtidas com a velocidade 1**
+
+
+
+**Perdas obtidas com a velocidade 2**
+
+
