@@ -53,6 +53,15 @@ Para isso, é importante definir um parâmetro de escoamentos viscosos que é o 
    
    ![Numero de Reynolds 2](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/ReD.gif)
    
+   As perdas acontecem de maneira diferente em escoamentos laminares e turbulentos, e para se conseguir bons resultados é 
+   imprescindível estudar o número de Reynolds, tendo em vista que este é o parâmetro que contribui para o entendimento de quando
+   se deve fazer ou não um abordagem de regime turbulento. A relação entre o número de Reynolds e os regimes de escoamento se dá de
+   acordo com as seguintes especificações:
+   
+   Re < 2300 - Escoamento laminar
+   Re = 2300 - Transição
+   Re > 2300 - Escoamento turbulento
+   
    Para analisar o escoamento, considera-se a equação de Bernoulli com auxílio da perda de carga por atrito (hf) sendo o termo para compensar a perda de carga:
 
    ![Bernoulli usando hf 1](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/Bernoullihf.gif)
