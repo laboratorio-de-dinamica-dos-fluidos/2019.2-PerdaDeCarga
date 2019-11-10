@@ -59,7 +59,9 @@ Para isso, é importante definir um parâmetro de escoamentos viscosos que é o 
    acordo com as seguintes especificações:
    
    Re < 2300 - Escoamento laminar
+   
    Re = 2300 - Transição
+   
    Re > 2300 - Escoamento turbulento
    
    Para analisar o escoamento, considera-se a equação de Bernoulli com auxílio da perda de carga por atrito (hf) sendo o termo para compensar a perda de carga:
