@@ -335,8 +335,6 @@ Média: 5,16cm  |  Variância: 0,0014  |  Desvio Padrão: 0,037417
 
 ![perdasv1](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/Perdasv1.png)
 
-
-
-**Perdas obtidas com a velocidade 2**
+![perdasv2](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/Perdasv2.png)
 
 
