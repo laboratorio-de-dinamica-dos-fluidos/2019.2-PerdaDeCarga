@@ -340,6 +340,8 @@ Média: 5,16cm  |  Variância: 0,0014  |  Desvio Padrão: 0,037417
 
 ![Re x deltap](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/Rexdeltap.png)
 
-Analisando os gráficos foi possível obter um comportamento esperado,a variação da pressão aumenta conforme o aumento do número de Reynolds.Esse aspecto pode ser facilmente comprovado a partir da análise da equação que é dada por Haaland. 
+Analisando os gráficos foi possível obter um comportamento esperado,a variação da pressão aumenta conforme o aumento do número de Reynolds.Esse comportamento é esperado através da análise da equação que é dada por Haaland. 
 
 ![](Imagens/649.png)
+
+Pode-se perceber que na equação os termos envolvidos seguem uma relação de proporcionalidade devido ao seu posicionamento na equação, comprovando o que foi dito anteriormente,ou seja,se um termo aumenta o seu valor ,o outro também para que seja satisfeita a relação de proporcionalidade. 
