@@ -61,9 +61,14 @@ Para isso, é importante definir um parâmetro de escoamentos viscosos que é o 
    
    ![Bernoulli usando hf 2](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/Bernoullihf2.gif)
    
-   Mas a perda de carga por atrito é dada por:
+   Mas a perda de carga por atrito também é dada por:
    
    ![Perda de carga por atrito](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/Hf.gif)
+   
+   onde f é o fator de atrito e L é o comprimento do duto.
+   Substituindo este hf na equação anterior, temos:
+   
+   ![Perda de carga na forma de pressão](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/Perda%20na%20forma%20de%20pressao.gif)
 
 ## Procedimento de montagem e execução
 
