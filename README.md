@@ -340,7 +340,7 @@ Média: 5,16cm  |  Variância: 0,0014  |  Desvio Padrão: 0,037417
 
 ![Rexdeltap](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/Rexdeltapri.png)
 
-Analisando os gráficos foi possível verificar o comportamento esperado onde a diferença de pressão entre o início e o final do sistema aumenta conforme o aumento do número de Reynolds. Esse é o comportamento através da análise da equação dada por Haaland: 
+Analisando os gráficos foi possível verificar o comportamento esperado entre as grandezas observadas, onde a diferença de pressão entre o início e o final do sistema aumenta conforme o aumento do número de Reynolds. Tal entendimento pode-se obter através da análise da equação dada por Haaland: 
 
 ![](Imagens/649.png)
 
