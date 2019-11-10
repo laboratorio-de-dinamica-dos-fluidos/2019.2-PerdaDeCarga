@@ -340,4 +340,4 @@ Média: 5,16cm  |  Variância: 0,0014  |  Desvio Padrão: 0,037417
 
 ![Re x deltap](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/Rexdeltap.png)
 
-Analisando os gráficos é possível obter um aspecto esperado,O \DeltaP aumenta com número de Reynolds.Esse aspecto pode ser facilmente comprovado a partir da análise da equação que é dada por Haaland. 
+Analisando os gráficos é possível obter um aspecto esperado,a variação da pressão aumenta conforme o aumento do número de Reynolds.Esse aspecto pode ser facilmente comprovado a partir da análise da equação que é dada por Haaland. 
