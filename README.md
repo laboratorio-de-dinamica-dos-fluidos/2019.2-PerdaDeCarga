@@ -344,4 +344,4 @@ Analisando os gráficos foi possível obter um comportamento esperado,a variaç�
 
 ![](Imagens/649.png)
 
-Pode-se perceber que na equação os termos envolvidos seguem uma relação de proporcionalidade devido ao seu posicionamento na equação, comprovando o que foi dito anteriormente,ou seja,se um termo aumenta o seu valor ,o outro também para que seja satisfeita a relação de proporcionalidade. 
+Pode-se perceber que os termos envolvidos seguem uma relação de proporcionalidade devido ao seu posicionamento na equação, comprovando o que foi dito anteriormente,ou seja,se um termo aumenta o seu valor ,o outro também para que seja satisfeita a relação de proporcionalidade. 
