@@ -338,7 +338,7 @@ Média: 5,16cm  |  Variância: 0,0014  |  Desvio Padrão: 0,037417
 
 ![perdasv2](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/Perdasv2.png)
 
-![Re x deltap](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/Rexdeltap.png)
+
 
 Analisando os gráficos foi possível obter um comportamento esperado,a variação da pressão aumenta conforme o aumento do número de Reynolds.Esse comportamento é esperado através da análise da equação que é dada por Haaland. 
 
