@@ -90,6 +90,11 @@ Para isso, é importante definir um parâmetro de escoamentos viscosos que é o 
    ![Eq Bernoulli - z](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/EqBer-z.gif)
    
    ![Conservação de massa](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/V2.gif)
+   
+   A primeira equação é obtida ao se desprezar a diferença de altura entre os pontos 1 e 2 na equação de Bernoulli. Já a segunda, vem da
+   lei de conservação de massa. Substituindo V2 na primeira equaçãoe, sabendo que o fluido usado no manômetro é a água, temos:
+   
+   ![Velocidade 1](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/Medidor%20de%20Venturi.gif)
 
 ## Procedimento de montagem e execução
 
