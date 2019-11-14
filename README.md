@@ -88,6 +88,7 @@ Para isso, é importante definir um parâmetro de escoamentos viscosos que é o 
    bem relevantes.
    
    ![Eq Bernoulli - z](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/EqBer-z.gif)
+   
    ![Conservação de massa](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/V2.gif)
 
 ## Procedimento de montagem e execução
