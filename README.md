@@ -80,6 +80,15 @@ Para isso, é importante definir um parâmetro de escoamentos viscosos que é o 
    Substituindo hf em (P1-P2), temos:
    
    ![Perda de carga na forma de pressão](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/Perda%20na%20forma%20de%20pressao.gif)
+   
+   ### Medidor de Venturi
+   
+   É um instrumento cuja finalidade é a mensuração da velocidade de escoamento em duto de áreas variáveis quando se utiliza fluidos 
+   incompressíveis. Para que se possa chegar numa expressão para a velocidade do escoamento de ar em tubo as próximas duas equações são 
+   bem relevantes.
+   
+   ![Eq Bernoulli - z](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/EqBer-z.gif)
+   ![Conservação de massa](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/V2.gif)
 
 ## Procedimento de montagem e execução
 
