@@ -356,13 +356,13 @@ As medidas de velocidade do escoamento, difereça de altura dos níveis de água
 |---|---|---|---|---|
 |1,412|8,67|13,55|5,258|5142,62|
 |1,418|8,69|13,57|5,300|5183,70|
-|,1418|8,69|13,57|5,262|5146,54|
+|1,418|8,69|13,57|5,262|5146,54|
 
 * Vazão 5 = 4,5 L/s
 
 |Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento trecho 25mm(m/s)|Velocidade do escoamento trecho 20mm (m/s)|Deslocamento - terminais (cm)|Perda de carga (Pa)|
 |---|---|---|---|---|
-|1,584|9,18|14,32|5,800|5672,73|
+|1,584|9,18|14,35|5,800|5672,73|
 |1,582|9,18|14,34|5,798|5670,77|
 |1,570|9,14|14,28|5,780|5653,17|
 
@@ -374,14 +374,14 @@ As medidas de velocidade do escoamento, difereça de altura dos níveis de água
 |1,874|9,99|15,61|7,074|6918,78|
 |1,890|10,03|15,67|7,050|6895,30|
 
-|Velocidades|Média de velocidade (m/s)|Média da pressão (Pa)|Variância da velocidade (m²/s²)|Variância da pressão (Pa²)|Desvio padrão - pressão (Pa)|Desvio padrão - velocidade (m/s)|Número de Reynolds|
-|---|---|---|---|---|---|---|---|
-|1||||||||
-|2||||||||
-|3||||||||
-|4||||||||
-|5||||||||
-|6||||||||
+|Vazão|Média de velocidade trecho 25mm(m/s)|Número de Reynolds|Variância|Desvio padrão|Média de velocidade trecho 20mm(m/s)|Número de Reynolds|Variância|Desvio padrão|
+|---|---|---|---|---|---|---|---|---|
+|1|||||||||
+|2|||||||||
+|3|||||||||
+|4|||||||||
+|5|||||||||
+|6|||||||||
 
 ## Apresentação de gráficos e análises
 
