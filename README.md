@@ -409,11 +409,11 @@ As medidas de velocidade do escoamento, difereça de altura dos níveis de água
 ![](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/vaz%C3%A3o%20por%20delta%20P.png)
 ![](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/Vazao%20por%20Reynolds.png)
 
-Analisando os gráficos foi possível verificar o comportamento esperado entre as grandezas observadas, onde a diferença de pressão entre o início e o final do sistema aumenta conforme o aumento do número de Reynolds. Tal entendimento pode-se obter através da análise da equação dada por Haaland: 
+Analisando os gráficos foi possível verificar o comportamento esperado entre as grandezas observadas. A diferença de pressão entre o início e o final do sistema aumenta conforme o aumento do número de Reynolds em cada trecho do sistema, portanto, como um aumento de vazão gera um aumento do número de Reynolds em cada trecho, a variação de pressão do sistema irá aumentar. Tal entendimento pode-se obter através da análise da equação dada por Haaland: 
 
 ![](Imagens/649.png)
 
-Pode-se perceber que os termos importantes para a perda de carga (número de reynalds e fator de atrito) têm uma relação direta em sua variação, de modo que uma variação positiva em um dos termos acarreta uma variação positiva no outro também.
+Pode-se perceber que os termos importantes para a perda de carga em cada trecho (número de reynalds e fator de atrito) têm uma relação direta em sua variação, de modo que uma variação positiva em um dos termos acarreta uma variação positiva no outro também.
 
 ## Comparação dos resultados com a teoria envolvida
 
