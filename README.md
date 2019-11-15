@@ -374,8 +374,7 @@ As medidas de velocidade do escoamento, difereça de altura dos níveis de água
 |1,874|9,99|7,074|691,88|
 |1,890|10,03|7,050|689,53|
 
-|Velocidades|Média da velocidade|Média da pressão|Variância da velocidade|Variância da pressão|Desvio padrão - pressão|Desvio padrão - 
-velocidade|Número de Reynolds|
+|Velocidades|Média da velocidade|Média da pressão|Variância da velocidade|Variância da pressão|Desvio padrão - pressão|Desvio padrão - velocidade|Número de Reynolds|
 |---|---|---|---|---|---|---|---|
 |||||||||
 |||||||||
