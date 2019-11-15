@@ -388,3 +388,7 @@ Analisando os gráficos foi possível verificar o comportamento esperado entre a
 ![](Imagens/649.png)
 
 Pode-se perceber que os termos importantes para a perda de carga (número de reynalds e fator de atrito) têm uma relação direta em sua variação, de modo que uma variação positiva em um dos termos acarreta uma variação positiva no outro também.
+
+## Comparação dos resultados com a teoria envolvida
+
+
