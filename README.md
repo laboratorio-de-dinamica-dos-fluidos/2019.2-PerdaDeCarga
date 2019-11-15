@@ -374,6 +374,16 @@ As medidas de velocidade do escoamento, difereça de altura dos níveis de água
 |1,874|9,99|7,074|691,88|
 |1,890|10,03|7,050|689,53|
 
+|Velocidades|Média da velocidade|Média da pressão|Variância da velocidade|Variância da pressão|Desvio padrão - pressão|Desvio padrão - 
+velocidade|Número de Reynolds|
+|---|---|---|---|---|---|---|---|
+|||||||||
+|||||||||
+|||||||||
+|||||||||
+|||||||||
+|||||||||
+
 ## Apresentação de gráficos e análises
 
 ![perdasv1](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/Perdasv1.png)
