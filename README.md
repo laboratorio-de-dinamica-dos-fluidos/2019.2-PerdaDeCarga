@@ -330,17 +330,9 @@ As medidas de velocidade do escoamento, difereça de altura dos níveis de água
 
 |Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento trecho 25mm (m/s)|Velocidade do escoamento trecho 20mm (m/s)|Deslocamento - terminais (cm)|Perda de carga (Pa)|
 |---|---|---|---|---|
-|0,402|4,63|1,736|||
-|0,408|4,66|1,750|||
-|0,386|4,53|1,750|||
-
-Velocidade média trecho 25mm = 4,61
-Variância = 0,003089
-Desvio Padrão = 0,055578
-
-Velocidade média trecho 20mm = 7,23
-Variância = 0,007222
-Desvio Padrão = 0,084984
+|0,402|4,63|1,736|1,736|1697,1|
+|0,408|4,66|1,750|1,750|1711,60|
+|0,386|4,53|1,750|1,750|1711,60|
 
 * Vazão 2 =  2,6 L/s
 
@@ -374,7 +366,7 @@ Desvio Padrão = 0,084984
 |||||
 |||||
 
-* Vazão 6 = 4,9 L/s
+* Vazão 6 = 4,9
 
 |Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento (m/s)|Deslocamento - terminais (cm)|Perda de carga (Pa)|
 |---|---|---|---|
