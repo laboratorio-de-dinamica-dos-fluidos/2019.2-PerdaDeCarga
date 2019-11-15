@@ -322,21 +322,21 @@ Foi realizado um orçamento prelimnar utilizando os valores encontrados via inte
 
 ## Dados experimentais
 
-Após a montagem completa do experimento, foram realizadas medidas do deslocamento dos meniscos nos manmetros em U conectados ao tubo de venturi e aos terminais do sistema de dutos.
+Após a montagem completa do experimento, foram realizadas medidas do deslocamento dos meniscos nos manmetros em U conectados ao tubo de Venturi e aos terminais do sistema de dutos.
 
 As medidas de velocidade do escoamento, difereça de altura dos níveis de água nos manômetros e a perda de carga, em módulo, foram as seguintes:
 
 * Velocidade 1
 
-|Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento (m/s)|Deslocamento - terminais(cm)|Perda de carga (Pa)|
+|Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento (m/s)|Deslocamento - terminais (cm)|Perda de carga (Pa)|
 |---|---|---|---|
-|||||
-|||||
-|||||
+|0,308|4,05|1,736|169,79|
+|0,298|3,98|1,750|171,16|
+|0,300|4,00|1,750|171,16|
 
 * Velocidade 2
 
-|Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento (m/s)|Deslocamento - terminais(cm)|Perda de carga (Pa)|
+|Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento (m/s)|Deslocamento - terminais (cm)|Perda de carga (Pa)|
 |---|---|---|---|
 |||||
 |||||
@@ -344,7 +344,7 @@ As medidas de velocidade do escoamento, difereça de altura dos níveis de água
 
 * Velocidade 3
 
-|Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento (m/s)|Deslocamento - terminais(cm)|Perda de carga (Pa)|
+|Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento (m/s)|Deslocamento - terminais (cm)|Perda de carga (Pa)|
 |---|---|---|---|
 |||||
 |||||
@@ -352,7 +352,7 @@ As medidas de velocidade do escoamento, difereça de altura dos níveis de água
 
 * Velocidade 4
 
-|Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento (m/s)|Deslocamento - terminais(cm)|Perda de carga (Pa)|
+|Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento (m/s)|Deslocamento - terminais (cm)|Perda de carga (Pa)|
 |---|---|---|---|
 |||||
 |||||
@@ -360,7 +360,7 @@ As medidas de velocidade do escoamento, difereça de altura dos níveis de água
 
 * Velocidade 5
 
-|Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento (m/s)|Deslocamento - terminais(cm)|Perda de carga (Pa)|
+|Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento (m/s)|Deslocamento - terminais (cm)|Perda de carga (Pa)|
 |---|---|---|---|
 |||||
 |||||
@@ -368,7 +368,7 @@ As medidas de velocidade do escoamento, difereça de altura dos níveis de água
 
 * Velocidade 6
 
-|Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento (m/s)|Deslocamento - terminais(cm)|Perda de carga (Pa)|
+|Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento (m/s)|Deslocamento - terminais (cm)|Perda de carga (Pa)|
 |---|---|---|---|
 |||||
 |||||
