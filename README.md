@@ -330,49 +330,49 @@ As medidas de velocidade do escoamento, difereça de altura dos níveis de água
 
 |Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento trecho 25mm (m/s)|Velocidade do escoamento trecho 20mm (m/s)|Deslocamento - terminais (cm)|Perda de carga (Pa)|
 |---|---|---|---|---|
-|0,402|4,63|1,736|1,736|1697,1|
-|0,408|4,66|1,750|1,750|1711,60|
-|0,386|4,53|1,750|1,750|1711,60|
+|0,402|4,63|7,23|1,736|1697,1|
+|0,408|4,66|7,28|1,750|1711,60|
+|0,386|4,53|7,|1,750|1711,60|
 
 * Vazão 2 =  2,6 L/s
 
-|Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento (m/s)|Deslocamento - terminais (cm)|Perda de carga (Pa)|
+|Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento trecho 25mm (m/s)|Velocidade do escoamento trecho 20mm (m/s)|Deslocamento - terminais (cm)|Perda de carga (Pa)|
 |---|---|---|---|
-|||||
-|||||
-|||||
+|0,526|5,29|8,27|2,042|1997,19|
+|0,528|5,30|8,28|1,992|1948,29|
+|0,532|5,32|8,31|1,982|1938,51|
 
 * Vazão 3 = 3,1 L/s
 
-|Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento (m/s)|Deslocamento - terminais (cm)|Perda de carga (Pa)|
+|Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento trecho 25mm (m/s)|Velocidade do escoamento trecho 20mm (m/s)|Deslocamento - terminais (cm)|Perda de carga (Pa)|
 |---|---|---|---|
-|||||
-|||||
-|||||
+|0,730|6,23|9,74|2,862|2799,20|
+|0,728|6,22|9,73|2,820|2758,12|
+|0,736|6,26|9,78|2,842|2779,64|
 
 * Vazão 4 = 4,3 L/s
 
-|Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento (m/s)|Deslocamento - terminais (cm)|Perda de carga (Pa)|
+|Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento trecho 25mm(m/s)|Velocidade do escoamento trecho 20mm (m/s)|Deslocamento - terminais (cm)|Perda de carga (Pa)|
 |---|---|---|---|
-|||||
-|||||
-|||||
+|1,412|8,67|13,55|5,258|5142,62|
+|1,418|8,69|13,57|5,300|5183,70|
+|,1418|8,69|13,57|5,262|5146,54|
 
 * Vazão 5 = 4,5 L/s
 
-|Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento (m/s)|Deslocamento - terminais (cm)|Perda de carga (Pa)|
+|Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento trecho 25mm(m/s)|Velocidade do escoamento trecho 20mm (m/s)|Deslocamento - terminais (cm)|Perda de carga (Pa)|
 |---|---|---|---|
-|||||
-|||||
-|||||
+|1,584|9,18|14,32|5,800|5672,73|
+|1,582|9,18|14,34|5,798|5670,77|
+|1,570|9,14|14,28|5,780|5653,17|
 
 * Vazão 6 = 4,9
 
-|Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento (m/s)|Deslocamento - terminais (cm)|Perda de carga (Pa)|
+|Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento trecho 25mm(m/s)|Velocidade do escoamento trecho 20mm (m/s)|Deslocamento - terminais (cm)|Perda de carga (Pa)|
 |---|---|---|---|
-|||||
-|||||
-|||||
+|1,880|10,00|15,63|7,092|6936,38|
+|1,874|9,99|15,61|7,074|6918,78|
+|1,890|10,03|15,67|7,050|6895,30|
 
 |Velocidades|Média de velocidade (m/s)|Média da pressão (Pa)|Variância da velocidade (m²/s²)|Variância da pressão (Pa²)|Desvio padrão - pressão (Pa)|Desvio padrão - velocidade (m/s)|Número de Reynolds|
 |---|---|---|---|---|---|---|---|
