@@ -384,7 +384,7 @@ As medidas de velocidade do escoamento, difereça de altura dos níveis de água
 |6|10,01|15739|0,000289|0,016997|
 
 |Vazão|Média de velocidade trecho 20mm(m/s)|Número de Reynolds|Variância|Desvio padrão|
-|---|---|---|---|
+|---|---|---|---|---|
 |1|7,23|9095|0,007222|0,084984|
 |2|8,28|10423|0,000267|0,01633|
 |3|9,74|12255|0,000289|0,016997|
@@ -394,6 +394,7 @@ As medidas de velocidade do escoamento, difereça de altura dos níveis de água
 
 
 |Vazão|Variação média de pressão (Pa)|Variância|Desvio Padrão|
+|---|---|---|---|
 |1|1707,04|41,648022|6,453528|
 |2|1961,33|658,9112|25,669266|
 |3|2778,99|281,474489|16,777201|
