@@ -326,23 +326,15 @@ Após a montagem completa do experimento, foram realizadas medidas do deslocamen
 
 As medidas de velocidade do escoamento, difereça de altura dos níveis de água nos manômetros e a perda de carga, em módulo, foram as seguintes:
 
-* 
+* Vazão 1 = 2,3 L/s
 
-|Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento -  (m/s)|Deslocamento - terminais (cm)|Perda de carga (Pa)|
-|---|---|---|---|
-|0,402|4,63|1,736||
-|0,408|4,66|1,750||
-|0,386|4,53|1,750||
+|Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento trecho 25mm (m/s)|Velocidade do escoamento trecho 20mm (m/s)|Deslocamento - terminais (cm)|Perda de carga (Pa)|
+|---|---|---|---|---|
+|0,402|4,63|1,736|||
+|0,408|4,66|1,750|||
+|0,386|4,53|1,750|||
 
-* Velocidade 2
-
-|Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento (m/s)|Deslocamento - terminais (cm)|Perda de carga (Pa)|
-|---|---|---|---|
-|||||
-|||||
-|||||
-
-* Velocidade 3
+* Vazão 2 =  2,6 L/s
 
 |Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento (m/s)|Deslocamento - terminais (cm)|Perda de carga (Pa)|
 |---|---|---|---|
@@ -350,7 +342,7 @@ As medidas de velocidade do escoamento, difereça de altura dos níveis de água
 |||||
 |||||
 
-* Velocidade 4
+* Vazão 3 = 3,1 L/s
 
 |Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento (m/s)|Deslocamento - terminais (cm)|Perda de carga (Pa)|
 |---|---|---|---|
@@ -358,7 +350,7 @@ As medidas de velocidade do escoamento, difereça de altura dos níveis de água
 |||||
 |||||
 
-* Velocidade 5
+* Vazão 4 = 4,3 L/s
 
 |Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento (m/s)|Deslocamento - terminais (cm)|Perda de carga (Pa)|
 |---|---|---|---|
@@ -366,7 +358,15 @@ As medidas de velocidade do escoamento, difereça de altura dos níveis de água
 |||||
 |||||
 
-* Velocidade 6
+* Vazão 5 = 4,5 L/s
+
+|Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento (m/s)|Deslocamento - terminais (cm)|Perda de carga (Pa)|
+|---|---|---|---|
+|||||
+|||||
+|||||
+
+* Vazão 6 = 4,9
 
 |Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento (m/s)|Deslocamento - terminais (cm)|Perda de carga (Pa)|
 |---|---|---|---|
