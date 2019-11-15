@@ -322,45 +322,51 @@ Foi realizado um orçamento prelimnar utilizando os valores encontrados via inte
 
 ## Dados experimentais
 
-Após a montagem completa do experimento, foram realizadas medidas do deslocamento dos meniscos nos manometros em U conectados ao tubo de venturi e aos terminais do sistema de dutos.
+Após a montagem completa do experimento, foram realizadas medidas do deslocamento dos meniscos nos manmetros em U conectados ao tubo de venturi e aos terminais do sistema de dutos.
 
-As medidas do deslocamento em módulo encontradas foram as seguintes:
+As medidas de velocidade do escoamento, difereça de altura dos níveis de água nos manômetros e a perda de carga, em módulo, foram as seguintes:
 
-* Tubo de venturi
+* Velocidade 1
+|Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento (m/s)|Deslocamento - terminais(cm)|Perda de carga (Pa)|
+|---|---|---|---|
+|||||
+|||||
+|||||
 
-| Deslocamento para velocidade 1 | Deslocamento para velocidade 2 |
-|--|--|
-|0,20cm |0,35cm |
-|0,20cm |0,40cm |
-|0,15cm |0,40cm |
-|0,20cm |0,45cm |
-|0,15cm |0,40cm |
+* Velocidade 2
+|Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento (m/s)|Deslocamento - terminais(cm)|Perda de carga (Pa)|
+|---|---|---|---|
+|||||
+|||||
+|||||
 
-**Velocidade 1**
+* Velocidade 3
+|Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento (m/s)|Deslocamento - terminais(cm)|Perda de carga (Pa)|
+|---|---|---|---|
+|||||
+|||||
+|||||
 
-Média: 0,18cm  |  Variância: 0,0006  |  Desvio Padrão: 0,024495
+* Velocidade 4
+|Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento (m/s)|Deslocamento - terminais(cm)|Perda de carga (Pa)|
+|---|---|---|---|
+|||||
+|||||
+|||||
 
-**Velocidade 2**
+* Velocidade 5
+|Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento (m/s)|Deslocamento - terminais(cm)|Perda de carga (Pa)|
+|---|---|---|---|
+|||||
+|||||
+|||||
 
-Média: 0,4cm  |  Variância: 0,001  |  Desvio Padrão: 0,031623
-
-* Terminais
-
-| Deslocamento para velocidade 1 | Deslocamento para velocidade 2 |
-|--|--|
-|1,20cm |5,20cm |
-|1,20cm |5,15cm |
-|1,20cm |5,20cm |
-|1,20cm |5,15cm |
-|1,25cm |5,10cm |
-
-**Velocidade 1**
-
-Média: 1,21cm  |  Variância: 0,0004  |  Desvio Padrão: 0,02
-
-**Velocidade 2**
-
-Média: 5,16cm  |  Variância: 0,0014  |  Desvio Padrão: 0,037417
+* Velocidade 6
+|Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento (m/s)|Deslocamento - terminais(cm)|Perda de carga (Pa)|
+|---|---|---|---|
+|||||
+|||||
+|||||
 
 ## Apresentação de gráficos e análises
 
