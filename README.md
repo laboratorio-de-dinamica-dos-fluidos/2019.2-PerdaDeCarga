@@ -15,7 +15,7 @@ A relação entre a variação da área da seção transversal dos dutos e a per
 
 ## Requisitos de solução
 
-* Medir a pressão no ponto inicial e final do escoamento para assim avaliar a perda de carga do sistema.
+* Medir a diferença de pressão entre o ponto inicial e final do escoamento para assim avaliar a perda de carga do sistema.
 
 ## Requisitos detalhados e características do sistema
 
