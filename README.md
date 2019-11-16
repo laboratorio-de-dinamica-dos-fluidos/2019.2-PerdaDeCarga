@@ -133,12 +133,12 @@ Precaução
 Essa etapa consiste em um tempo bônus caso ocorram problemas na montagem ou na execução do experimento.Caso não seja necessário,essa etapa será ignorada e a seguinte antecipada.
 
 
-* **Etapa 4 (01/10-08/10)** -
+* **Etapa 4 (01/10-16/11)** -
 Análise dos dados e escrita do relatório
 
 Com os dados obtidos da realização do experimento,serão feitas analises em comparação com a teoria para que a posteriore ocorra a escrita do relatório.
 
-* **Etapa 5 (08/10-11/10)** -
+* **Etapa 5 (16/11-23/11)** -
 Revisão do relatório
 
 A partir do término do relatório será realizada a semana de revisão onde , caso necessário,os integrantes do grupo irão complementar o relatório em suas partes avaliadas como insatisfatórias.
