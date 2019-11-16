@@ -322,7 +322,7 @@ Foi realizado um orçamento prelimnar utilizando os valores encontrados via inte
 
 ## Dados experimentais
 
-Após a montagem completa do experimento, foram realizadas medidas do deslocamento dos meniscos nos manmetros em U conectados ao tubo de Venturi e aos terminais do sistema de dutos.
+Após a montagem completa do experimento, foram realizadas medidas do deslocamento dos meniscos nos manômetros em U conectados ao tubo de Venturi e aos terminais do sistema de dutos.
 
 As medidas de velocidade do escoamento, difereça de altura dos níveis de água nos manômetros e a perda de carga, em módulo, foram as seguintes:
 
