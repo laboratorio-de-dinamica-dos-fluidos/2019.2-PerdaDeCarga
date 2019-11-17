@@ -427,10 +427,10 @@ As medidas de velocidade do escoamento, difereça de altura dos níveis de água
 ## Apresentação de gráficos e análises
 
 (1)
-![](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/vaz%C3%A3o%20por%20delta%20P.png)
+![](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/grafico%201.PNG)
 
 (2)
-![](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/Vazao%20por%20Reynolds.png)
+![](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/grafico%202.PNG)
 
 Analisando os gráficos foi possível verificar o comportamento esperado entre as grandezas observadas. A diferença de pressão entre o início e o final do sistema aumenta conforme o aumento do número de Reynolds em cada trecho do sistema, portanto, como um aumento de vazão gera um aumento do número de Reynolds em cada trecho, a variação de pressão do sistema irá aumentar. Tal entendimento pode-se obter através da análise da equação dada por Haaland: 
 
