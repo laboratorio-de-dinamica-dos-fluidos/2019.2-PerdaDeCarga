@@ -41,7 +41,9 @@ O grupo escolheu um experimento de complexidade razoável e custo tangível, det
 ## Teoria do Experimento
 
    Busca-se entender como ocorre a queda de pressão associada aos efeitos viscosos, focando em escoamento interno em dutos circulares.
-Para isso, é importante definir um parâmetro de escoamentos viscosos que é o número de Reynolds (Re):
+Para isso, é importante definir um parâmetro de escoamentos viscosos que é o número de Reynolds (Re).
+
+### Número de Reynolds
 
    ![Numero de Reynolds 1](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/Re.gif)
    
@@ -62,6 +64,11 @@ Para isso, é importante definir um parâmetro de escoamentos viscosos que é o 
    Re = 2300 - Transição
    
    Re > 2300 - Escoamento turbulento
+   
+   No sistema de tubos do experimento o ar primeiramente passa por um trecho de diâmetro Da, e depois por um de diâmetro Db, e isso 
+   interfere no número de Reynolds, o que ocorre em razão da variação tanto da área como da velocidade do escoamento. Diante do exposto 
+   levanta-se a intrigante questão: tendo em vista ambas alterações e que a velocidade e a área são inversamente proporcionais, o Re
+   diminuirá ou não? Para responder esta pergunta calcula-se a razão entre Reb e Rea.
    
    Para analisar o escoamento, considera-se a equação de Bernoulli com auxílio da perda de carga por atrito (hf) sendo o termo para compensar a perda de carga:
 
