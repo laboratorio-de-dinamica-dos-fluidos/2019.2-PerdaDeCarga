@@ -415,4 +415,5 @@ Analisando os gráficos foi possível verificar o comportamento esperado entre a
 
 Pode-se perceber que os termos importantes para a perda de carga em cada trecho (número de reynolds e fator de atrito) têm uma relação direta em sua variação, de modo que uma variação positiva em um dos termos acarreta uma variação positiva no outro também.
 
+E uma notável característica que se pode observar, no gráfico de número de Reynolds por vazão volumétrica, é que o número de Reynolds no trecho de 20mm de diâmetro é cerca de 125% desse parâmetro quando obtido no trecho de 25mm.
 
