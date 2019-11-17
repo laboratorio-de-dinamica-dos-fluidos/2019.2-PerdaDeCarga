@@ -82,6 +82,8 @@ Para isso, é importante definir um parâmetro de escoamentos viscosos que é o 
    
    Sendo assim, se Da > Db, teremos que Reb > Rea.
    
+   ### Perda de carga distribuida
+   
    Para analisar o escoamento, considera-se a equação de Bernoulli com auxílio da perda de carga por atrito (hf) sendo o termo para compensar a perda de carga:
 
    ![Bernoulli usando hf 1](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/Bernoullihf.gif)
