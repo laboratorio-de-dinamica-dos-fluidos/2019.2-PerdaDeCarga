@@ -70,6 +70,8 @@ Para isso, é importante definir um parâmetro de escoamentos viscosos que é o 
    levanta-se a intrigante questão: tendo em vista ambas alterações e que a velocidade e a área são inversamente proporcionais, o Re
    diminuirá ou não? Para responder esta pergunta calcula-se a razão entre Reb e Rea.
    
+   ![razaoRes1](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/razaoRes1.gif)
+   
    Para analisar o escoamento, considera-se a equação de Bernoulli com auxílio da perda de carga por atrito (hf) sendo o termo para compensar a perda de carga:
 
    ![Bernoulli usando hf 1](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/Bernoullihf.gif)
