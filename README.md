@@ -25,8 +25,7 @@ Para a realização do experimento, é importante a construção de um sistema n
 * Os trechos serão posicionados na horizontal.
 * Os trechos terão dimensões diferentes de seção transversal, constantes em cada trecho.
 * A mudança de seção transversal não contará com bocais ou difusores.
-* O sistema será avaliado utilizando 2 diferentes métodos de instalação da máquinas de fluido (compressor), sendo: um exaustor no final do sistema, e um ventilador com e sem homogeneizador de fluxo no início do sistema.
-* As máquinas de fluido referidas serão adquiridas pelos integrantes.
+* O compressor será fabricado pelos integrantes do grupo.
 * Deve ser possível medir parâmetros de escoamento em pontos de interesse, para tanto será utilizado um manômetro em U para medição de pressão e um tubo de venturi para medição de velocidade no início do sistema para o cálculo da vazão, ambos instrumentos construídos pelos alunos integrantes.
 
 Para considerar cumpridos os objetivos do experimento deve-se, no mínimo:
@@ -406,7 +405,10 @@ As medidas de velocidade do escoamento, difereça de altura dos níveis de água
 
 ## Apresentação de gráficos e análises
 
+(1)
 ![](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/vaz%C3%A3o%20por%20delta%20P.png)
+
+(2)
 ![](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/Vazao%20por%20Reynolds.png)
 
 Analisando os gráficos foi possível verificar o comportamento esperado entre as grandezas observadas. A diferença de pressão entre o início e o final do sistema aumenta conforme o aumento do número de Reynolds em cada trecho do sistema, portanto, como um aumento de vazão gera um aumento do número de Reynolds em cada trecho, a variação de pressão do sistema irá aumentar. Tal entendimento pode-se obter através da análise da equação dada por Haaland: 
@@ -417,3 +419,7 @@ Pode-se perceber que os termos importantes para a perda de carga em cada trecho 
 
 E uma notável característica que se pode observar, no gráfico de número de Reynolds por vazão volumétrica, é que o número de Reynolds no trecho de 20mm de diâmetro é cerca de 125% desse parâmetro quando obtido no trecho de 25mm.
 
+
+## Comparação com a teoria
+
+Para realizar a comparação com a teoria vamos pegar cada uma das seis medidas encontradas de velocidade e comparar a perda de carga total do sistema teórica com a aferida.
