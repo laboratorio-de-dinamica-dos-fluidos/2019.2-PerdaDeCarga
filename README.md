@@ -445,4 +445,4 @@ E uma notável característica que se pode observar, no gráfico de número de R
 
 Para realizar a comparação com a teoria vamos pegar as medidas encontradas de velocidade e comparar a perda de carga total do sistema teórica com a aferida.
 
-É possível observar,por meio do gráfico (2) que existem discrepâncias entre as medidas realizadas pelo grupo e as simuladas conforme a teoria.Esse fenômeno pode ser explicado devido a precisão dos equipamentos de medição utilizados,aos ruídos, e até por falta de um local controlado para que as medidas fossem feitas de maneira a diminuir o erro aleatório. 
+É possível observar,por meio do gráfico (2) que existem discrepâncias entre as medidas realizadas pelo grupo e as simuladas conforme a teoria.Esse fenômeno pode ser explicado devido a precisão dos equipamentos de medição utilizados,aos ruídos, e até mesmo pela falta de um local controlado para que as medidas fossem feitas de maneira a diminuir o erro aleatório. 
