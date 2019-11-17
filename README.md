@@ -423,4 +423,5 @@ E uma notável característica que se pode observar, no gráfico de número de R
 ## Comparação com a teoria
 
 Para realizar a comparação com a teoria vamos pegar as medidas encontradas de velocidade e comparar a perda de carga total do sistema teórica com a aferida.
+
 É possível observar discrepâncias consideráveis nas medidas iniciais e finais do sistema que podem ser justificadas devido a perda de carga localizada dos componentes do sistema alterando a uniformidade do escoamento.
