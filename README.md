@@ -445,4 +445,4 @@ E uma notável característica que se pode observar, no gráfico de número de R
 
 Para realizar a comparação com a teoria vamos pegar as medidas encontradas de velocidade e comparar a perda de carga total do sistema teórica com a aferida.
 
-É possível observar discrepâncias consideráveis nas medidas iniciais e finais do sistema que podem ser justificadas devido a perda de carga localizada dos componentes do sistema alterando a uniformidade do escoamento.
+É possível observar,por meio do gráfico (1) que existem discrepâncias,mesmo que pequenas entre as medidas realizadas pelo grupo e as teóricas.Esse fenômeno pode ser explicado devido , a precisão dos equipamentos de medição utilizados,ruídos, e até por falta de um local controlado para que as medidas fossem feitas de maneira a diminuir o erro aleatório. 
