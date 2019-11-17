@@ -422,4 +422,4 @@ E uma notável característica que se pode observar, no gráfico de número de R
 
 ## Comparação com a teoria
 
-Para realizar a comparação com a teoria vamos pegar cada uma das seis medidas encontradas de velocidade e comparar a perda de carga total do sistema teórica com a aferida.
+Para realizar a comparação com a teoria vamos pegar as medidas encontradas de velocidade e comparar a perda de carga total do sistema teórica com a aferida.
