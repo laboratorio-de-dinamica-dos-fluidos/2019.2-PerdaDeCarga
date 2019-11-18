@@ -340,6 +340,11 @@ Foi realizado um orçamento prelimnar utilizando os valores encontrados via inte
 ## Link video YouTube (novo vídeo)
 [![Experimento Dinâmica dos Fluidos](https://i.ibb.co/5kx1xVp/https-i-ytimg-com-vi-xh-AO-m0-H8-U-maxresdefault.jpg)](https://youtu.be/xhAO_m0H8_U "https://youtu.be/xhAO_m0H8_U")
 
+## Tubo de venturi impresso em 3D
+![Experimento](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/venturi.jpg)
+
+
+
 ## Dados experimentais
 
 Após a montagem completa do experimento, foram realizadas medidas do deslocamento dos meniscos nos manômetros em U conectados ao tubo de Venturi e aos terminais do sistema de dutos.
