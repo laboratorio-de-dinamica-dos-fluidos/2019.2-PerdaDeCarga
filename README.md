@@ -450,6 +450,18 @@ E uma notável característica que se pode observar, no gráfico de número de R
 
 É possível observar,por meio do gráfico (2) que existem discrepâncias entre as medidas realizadas pelo grupo e as simuladas conforme a teoria.Esse fenômeno pode ser explicado devido a precisão dos equipamentos de medição utilizados,aos ruídos, e até mesmo pela falta de um local controlado para que as medidas fossem feitas de maneira a diminuir o erro aleatório.
 
+## Distribuição de tarefas efetiva
+
+Com o andar do experimento, algumas alterações na distribuição de tarefas foram necessárias. Desta forma, segue a relação do que cada integrante do grupo efetivamente realizou:
+
+| Integrante | Tarefa |
+|--|--|
+| Érick Marcelino | Corte e montagem dos tubos e dos manômetros, impressão do tubo de venturi, elaboração de reuniões, compra de materiais|
+| Giovanni Rambo | Corte e montagem dos tubos e dos manômetros, montagem do compressor, cálculos de resultados esperados, especificação de materiais| 
+| Raul Braga | Sistematização da teoria, elaboração de gráficos e auxílio nas demais atividades | 
+
+Todos os integrantes do grupo participaram em algum grau da inserção de informações no GitHub.
+
 ## Conclusão
 
 A partir da realização do experimento foi possível observar um escoamento turbulento e quantificar suas perdas durante a passagem por  acessórios hidráulicos.Não foi possível atingir um escoamento lâminar a partir do experimento realizado impossibilitando sua respectiva análise.
