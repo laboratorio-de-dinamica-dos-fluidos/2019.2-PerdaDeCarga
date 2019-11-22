@@ -5,4 +5,4 @@ MORAN, Michael J.; SHAPIRO, Howard N.; MUNSON, Bruce R. Introdução à engenhar
 WHITE, Frank M. Mecânica dos fluidos. McGraw Hill Brasil, 1962.
 
 Luiz R.,Escoamento Laminar e Turbulento.Disponível em
-<[http://www.engbrasil.eng.br/pp/mf/aula10.pdf>]
+<[http://www.engbrasil.eng.br/pp/mf/aula10.pdf]>
