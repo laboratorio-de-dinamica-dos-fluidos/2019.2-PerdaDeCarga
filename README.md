@@ -452,7 +452,7 @@ E uma notável característica que se pode observar, no gráfico de número de R
 
 ## Conclusão
 
-A partir da realização do experimento foi possível observar um escoamento turbulento e quantificar suas perdas durante a passagem por  acessórios hidráulicos.Não foi possível atingir um escoamento lâminar a partir do experimento realizado,assim,impossibilitando sua respectiva análise.
+A partir da realização do experimento foi possível observar um escoamento turbulento e quantificar suas perdas durante a passagem por  acessórios hidráulicos.Não foi possível atingir um escoamento lâminar a partir do experimento realizado assim,impossibilitando sua respectiva análise.
 
 
 ## Bibliografia
