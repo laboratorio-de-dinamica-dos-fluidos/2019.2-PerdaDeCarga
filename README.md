@@ -448,4 +448,18 @@ E uma notável característica que se pode observar, no gráfico de número de R
 
 ## Comparação com a teoria
 
-É possível observar,por meio do gráfico (2) que existem discrepâncias entre as medidas realizadas pelo grupo e as simuladas conforme a teoria.Esse fenômeno pode ser explicado devido a precisão dos equipamentos de medição utilizados,aos ruídos, e até mesmo pela falta de um local controlado para que as medidas fossem feitas de maneira a diminuir o erro aleatório. 
+É possível observar,por meio do gráfico (2) que existem discrepâncias entre as medidas realizadas pelo grupo e as simuladas conforme a teoria.Esse fenômeno pode ser explicado devido a precisão dos equipamentos de medição utilizados,aos ruídos, e até mesmo pela falta de um local controlado para que as medidas fossem feitas de maneira a diminuir o erro aleatório.
+
+## Conclusão
+
+
+
+## Bibliografia
+
+[1]BARRAL, Manuel F. Perda de Carga. Disponível em <http://www.leb.esalq.usp.br/leb/disciplinas/Fernando/leb472/Aula_7/Perda_de_carga_Manuel%20Barral.pdf>
+
+[2]MORAN, Michael J.; SHAPIRO, Howard N.; MUNSON, Bruce R. Introdução à engenharia de sistemas térmicos: termodinâmica, mecânica dos fluidos e transferência de calor. Grupo Gen-LTC, 2000.
+
+[3]WHITE, Frank M. Mecânica dos fluidos. McGraw Hill Brasil, 1962.
+
+[4]Luiz R.,Escoamento Laminar e Turbulento.Disponível em <[http://www.engbrasil.eng.br/pp/mf/aula10.pdf]>
