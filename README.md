@@ -103,7 +103,7 @@ Para isso, é importante definir um parâmetro de escoamentos viscosos que é o 
    
    ### Perda de carga localizada
    
-   Para um sistema que envolva tubulações existem as perdas adicionais mais conhecidas como as perdas de carga que são oriundas de : entrada e saída de tubos,expansões ou contrações bruscas,curvas,cotovelos tês e outros acessórios,válvulas,abertas ou parcialmente fechadas e expansões e contrações graduais.Essas perdas são calculadas a partir de :
+   Para um sistema que envolva tubulações existem as perdas adicionais mais conhecidas como as perdas de carga que são oriundas de: entrada e saída de tubos,expansões ou contrações bruscas,curvas,cotovelos tês e outros acessórios,válvulas,abertas ou parcialmente fechadas e expansões e contrações graduais.Essas perdas são calculadas a partir de:
    
    
    ### Medidor de Venturi
