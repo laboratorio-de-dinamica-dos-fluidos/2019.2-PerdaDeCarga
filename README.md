@@ -105,7 +105,7 @@ Para isso, é importante definir um parâmetro de escoamentos viscosos que é o 
    
    Para um sistema que envolva tubulações existem as perdas adicionais mais conhecidas como as perdas de carga que são oriundas de: entrada e saída de tubos,expansões ou contrações bruscas,curvas,cotovelos tês e outros acessórios,válvulas,abertas ou parcialmente fechadas e expansões e contrações graduais.Essa perdaa é calculadas a partir de:
    
-   ![Imagens/perda localizada.png](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/perda%20localizada.png)
+   ![Imagens/localizada.gif](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/localizada.gif)
    
    onde k é o coeficiente de perda de carga,V é uma velocidade de referência e g é a aceleração da gravidade.
    
