@@ -486,3 +486,6 @@ A partir da realização do experimento foi possível observar um escoamento tur
 
 [4]Luiz R.,Escoamento Laminar e Turbulento.Disponível em 
 http://www.engbrasil.eng.br/pp/mf/aula10.pdf
+
+[5]D.W. Preston e E.R. Dietz. “The Art of Experimental Physics”. Ed: John
+Wiley & Sons. Nova York, 1991. pág. 8.
