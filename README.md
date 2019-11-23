@@ -485,4 +485,4 @@ A partir da realização do experimento foi possível observar um escoamento tur
 [3]WHITE, Frank M. Mecânica dos fluidos. McGraw Hill Brasil, 1962.
 
 [4]Luiz R.,Escoamento Laminar e Turbulento.Disponível em 
-[http://www.engbrasil.eng.br/pp/mf/aula10.pdf]
+http://www.engbrasil.eng.br/pp/mf/aula10.pdf
