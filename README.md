@@ -101,6 +101,10 @@ Para isso, é importante definir um parâmetro de escoamentos viscosos que é o 
    
    ![Perda de carga na forma de pressão](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/Perda%20na%20forma%20de%20pressao.gif)
    
+   ### Perda de carga localizada
+   
+   
+   
    ### Medidor de Venturi
    
    É um instrumento cuja finalidade é a mensuração da velocidade de escoamento em duto de áreas variáveis quando se utiliza fluidos 
