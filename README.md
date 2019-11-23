@@ -473,7 +473,7 @@ Todos os integrantes do grupo participaram em algum grau da inserção de inform
 
 ## Conclusão
 
-A partir da realização do experimento foi possível observar um escoamento turbulento e quantificar suas perdas durante a passagem por  acessórios hidráulicos.Não foi possível atingir um escoamento lâminar a partir do experimento realizado impossibilitando sua respectiva análise.
+A partir da realização do experimento foi possível observar um escoamento turbulento e quantificar suas perdas durante a passagem por  acessórios hidráulicos. Não foi possível atingir um escoamento laminar a partir do experimento realizado impossibilitando sua respectiva análise.
 
 
 ## Bibliografia
