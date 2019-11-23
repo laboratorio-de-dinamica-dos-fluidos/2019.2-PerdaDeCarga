@@ -400,7 +400,7 @@ As medidas de velocidade do escoamento, difereça de altura dos níveis de água
 |1,582|9,18|14,34|5,798|5670,77|
 |1,570|9,14|14,28|5,780|5653,17|
 
-* Vazão 6 = 4,9
+* Vazão 6 = 4,9 L/s
 
 |Deslocamento - tubo de Venturi (cm)|Velocidade do escoamento trecho 25mm(m/s)|Velocidade do escoamento trecho 20mm (m/s)|Deslocamento - terminais (cm)|Perda de carga (Pa)|
 |---|---|---|---|---|
