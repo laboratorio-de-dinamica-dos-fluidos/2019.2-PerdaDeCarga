@@ -199,7 +199,7 @@ Destas configurações, com base na teoria apresentada, espera-se os seguintes r
 
 <img src="https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/constantes%201.png" width="500">
 
-<img src="https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/constantes%202.png.png" width="500">
+<img src="https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/constantes%202.png" width="500">
 
 ## **Lista de componentes e peças**
 
