@@ -342,6 +342,8 @@ Durante a montagem do experimento, verificou-se que alguns pontos iniciais do ex
 
 * Houve mudança na forma em que o manômetro será construído, sendo adotado então o uso de água ao invés de óleo como fluido do manômetro, e a construção do mesmo será vertical e não mais inclinada.
 
+* A velocidade do compressor ditará o Reynolds e não o Reynolds ditará a velocidade do compressor, dado que o controle de velocidade do compressor é muito sensível e de difícil regulagem.
+
 ## Distribuição de tarefas efetiva
 
 Com o andar do experimento, algumas alterações na distribuição de tarefas foram necessárias. Desta forma, segue a relação do que cada integrante do grupo efetivamente realizou:
