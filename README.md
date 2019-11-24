@@ -197,6 +197,8 @@ Destas configurações, com base na teoria apresentada, espera-se os seguintes r
 
 ## Tabelas com constantes
 
+As tabelas abaixo apresentam as constantes usadas para o cálculo dos dados desejados, tanto para cáculos teóricos quanto para tratamento, interpretação e extração de dados das medidas experimentais.
+
 <img src="https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/constantes%201.png" width="500">
 
 <img src="https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/constantes%202.png" width="500">
