@@ -22,7 +22,7 @@ A relação entre a variação da área da seção transversal dos dutos e a per
 Para a realização do experimento, é importante a construção de um sistema na qual o experimento será realizado. Como requisitos desse sistema temos:
 
 * Serão utilizados dutos de seção circular fabricados em PVC cor marrom.
-* Os trechos serão posicionados na horizontal.
+* A perda de carga será medida de modo que os pontos inicial e final do sistema terão mesma altura.
 * Os trechos terão dimensões diferentes de seção transversal, constantes em cada trecho.
 * A mudança de seção transversal não contará com bocais ou difusores.
 * O compressor será fabricado pelos integrantes do grupo.
