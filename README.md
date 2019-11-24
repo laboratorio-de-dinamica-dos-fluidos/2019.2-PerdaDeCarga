@@ -334,6 +334,20 @@ Foi realizado um orçamento prelimnar utilizando os valores encontrados via inte
 ## Link video YouTube
 [![Experimento Dinâmica dos Fluidos](https://i.ibb.co/4RW4KT9/https-i-ytimg-com-vi-Vb9h-ZSpi-AEQ-hqdefault.jpg)](https://www.youtube.com/watch?v=Vb9hZSpiAEQ "Experimento Dinâmica dos Fluidos")
 
+## Modificações necessárias no projeto
+
+## Distribuição de tarefas efetiva
+
+Com o andar do experimento, algumas alterações na distribuição de tarefas foram necessárias. Desta forma, segue a relação do que cada integrante do grupo efetivamente realizou:
+
+| Integrante | Tarefa |
+|--|--|
+| Érick Marcelino | Corte e montagem dos tubos e dos manômetros, impressão do tubo de venturi, elaboração de reuniões, compra de materiais|
+| Giovanni Rambo | Corte e montagem dos tubos e dos manômetros, montagem do compressor, cálculos de resultados esperados, especificação de materiais| 
+| Raul Braga | Sistematização da teoria, elaboração de gráficos e auxílio nas demais atividades | 
+
+Todos os integrantes do grupo participaram em algum grau da inserção de informações no GitHub.
+
 ## **Experimento - Pré-medição 1**
 
 ![Experimento](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/DINFLU%20NOVO%20(1).jpeg)
@@ -459,17 +473,6 @@ E uma notável característica que se pode observar, no gráfico de número de R
 
 É possível observar por meio do gráfico (2) que existe uma discrepância entre as medidas realizadas pelo grupo e as simuladas conforme a teoria.Esse erro encontrado não inviabiliza o experimento realizado e pode ser devidamente explicado por causa das fontes de erros existentes dos quais podemos citar os erros instrumentais que estão relacionados a precisão dos equipamentos  de medição utilizados como por exemplo o paquímetro.Pelos erros observacionais como de paralaxe que ocorre devido a observação errada na escala de graduação causada por um desvio óptico pelo ângulo de visão do observador ao se analisar os manômetros.Pela falta de um local controlado para que as medidas fossem feitas de maneira a diminuir o erro aleatório e por fim mas não menos importante,os erros devido aos arredondamentos e simplificações utilizadas pelo grupo.
 
-## Distribuição de tarefas efetiva
-
-Com o andar do experimento, algumas alterações na distribuição de tarefas foram necessárias. Desta forma, segue a relação do que cada integrante do grupo efetivamente realizou:
-
-| Integrante | Tarefa |
-|--|--|
-| Érick Marcelino | Corte e montagem dos tubos e dos manômetros, impressão do tubo de venturi, elaboração de reuniões, compra de materiais|
-| Giovanni Rambo | Corte e montagem dos tubos e dos manômetros, montagem do compressor, cálculos de resultados esperados, especificação de materiais| 
-| Raul Braga | Sistematização da teoria, elaboração de gráficos e auxílio nas demais atividades | 
-
-Todos os integrantes do grupo participaram em algum grau da inserção de informações no GitHub.
 
 ## Conclusão
 
