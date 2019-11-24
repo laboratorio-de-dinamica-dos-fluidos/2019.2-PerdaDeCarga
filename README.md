@@ -463,6 +463,8 @@ As medidas de velocidade do escoamento, difereça de altura dos níveis de água
 |5|5665,56|77,355022|8,79517|
 |6|6916,82|283,181867|16,828008|
 
+Relação entre os números de Reynolds:
+
 Reb/Rea = 25mm/20mm = 1,25
 
 ## Apresentação de gráficos e análises
