@@ -463,6 +463,8 @@ As medidas de velocidade do escoamento, difereça de altura dos níveis de água
 |5|5665,56|77,355022|8,79517|
 |6|6916,82|283,181867|16,828008|
 
+Reb/Rea = 25mm/20mm = 1,25
+
 ## Apresentação de gráficos e análises
 
 (1)
@@ -477,7 +479,10 @@ Analisando os gráficos foi possível verificar o comportamento esperado entre a
 
 Pode-se perceber que os termos importantes para a perda de carga em cada trecho (número de reynolds e fator de atrito) têm uma relação direta em sua variação, de modo que uma variação positiva em um dos termos acarreta uma variação positiva no outro também.
 
-E uma notável característica que se pode observar, no gráfico de número de Reynolds por vazão volumétrica, é que o número de Reynolds no trecho de 20mm de diâmetro é cerca de 125% desse parâmetro quando obtido no trecho de 25mm.
+Uma relevante característica que se pode observar, no gráfico de número de Reynolds por vazão volumétrica, mais claramente nos pontos
+da vazão 3 (por motivo da escala), é que o número de Reynolds no trecho de 20mm de diâmetro é cerca de 25% mais alto do que esse 
+parâmetro quando obtido no trecho de 25mm. Sendo assim, ainda que no trecho de 20mm o diâmetro seja menor, o aumento da velocidade faz
+com que o número de Reynolds aumente também.
 
 
 ## Comparação com a teoria
@@ -487,7 +492,14 @@ E uma notável característica que se pode observar, no gráfico de número de R
 
 ## Conclusão
 
-A partir da realização do experimento foi possível observar um escoamento turbulento e quantificar suas perdas durante a passagem por  acessórios hidráulicos. Não foi possível atingir um escoamento laminar a partir do experimento realizado impossibilitando sua respectiva análise.
+A partir da realização do experimento foi possível tanto observar como mensurar a perda de carga na forma de variação de pressão em um
+escoamento turbulento de ar, de maneira que também se aproveitou a oportunidade para analisar a contribuição da vazão do fluido em
+perdas durante a passagem por diferentes acessórios hidráulicos. 
+
+Ainda que não tenha sido possível atingir um escoamento laminar a partir do experimento realizado impossibilitando sua respectiva
+análise, do outro lado do ringue, obteve-se 6 vazões nas quais se observou regime turbulento, o que proporcionou uma quantidade de dados
+suficiente para fazer o estudo de como as variáveis relevantes estão relacionadas no ponto de vista da matemática, permitindo a 
+aquisição de resultados que se esperava de acordo com o que foi abordado teoricamente.
 
 
 ## Bibliografia
