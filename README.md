@@ -344,9 +344,14 @@ Durante a montagem do experimento, verificou-se que alguns pontos iniciais do ex
 
 * A velocidade do compressor ditará o Reynolds e não o Reynolds ditará a velocidade do compressor, dado que o controle de velocidade do compressor é muito sensível e de difícil regulagem.
 
+Desta forma, temos como configurações iniciais do nosso sistema a seguinte tabela atualizada:
+
+<img src="https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/fluidos%20nov.PNG" width="500">
+
+
 ## Distribuição de tarefas efetiva
 
-Com o andar do experimento, algumas alterações na distribuição de tarefas foram necessárias. Desta forma, segue a relação do que cada integrante do grupo efetivamente realizou:
+Com o andar do experimento, algumas alterações na distribuição de tarefas foram necessárias. A seguir verifica-se a relação do que cada integrante do grupo efetivamente realizou:
 
 | Integrante | Tarefa |
 |--|--|
