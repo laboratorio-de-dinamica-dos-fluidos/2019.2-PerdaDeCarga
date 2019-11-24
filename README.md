@@ -336,6 +336,12 @@ Foi realizado um orçamento prelimnar utilizando os valores encontrados via inte
 
 ## Modificações necessárias no projeto
 
+Durante a montagem do experimento, verificou-se que alguns pontos iniciais do experimento não seriam atendidos, exigindo assim algumas modificações. Dentre eles temos:
+
+* Não será possível realizar o estudo da perda de carga para escoamento laminar, uma vez que a vazão mínima do compressor já ultrapassa a vazão máxima para escoamento laminar do sistema.
+
+* Houve mudança na forma em que o manômetro será construído, sendo adotado então o uso de água ao invés de óleo como fluido do manômetro, e a construção do mesmo será vertical e não mais inclinada.
+
 ## Distribuição de tarefas efetiva
 
 Com o andar do experimento, algumas alterações na distribuição de tarefas foram necessárias. Desta forma, segue a relação do que cada integrante do grupo efetivamente realizou:
@@ -346,7 +352,10 @@ Com o andar do experimento, algumas alterações na distribuição de tarefas fo
 | Giovanni Rambo | Corte e montagem dos tubos e dos manômetros, montagem do compressor, cálculos de resultados esperados, especificação de materiais| 
 | Raul Braga | Sistematização da teoria, elaboração de gráficos e auxílio nas demais atividades | 
 
-Todos os integrantes do grupo participaram em algum grau da inserção de informações no GitHub.
+Todos os integrantes do grupo participaram em algum grau da inserção de informações no GitHub, conforme acordado pelo grupo.
+
+## Tubo de venturi impresso em 3D
+![Experimento](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/venturi.jpg)
 
 ## **Experimento - Pré-medição 1**
 
@@ -362,11 +371,6 @@ Todos os integrantes do grupo participaram em algum grau da inserção de inform
 
 ## Link video YouTube (novo vídeo)
 [![Experimento Dinâmica dos Fluidos](https://i.ibb.co/5kx1xVp/https-i-ytimg-com-vi-xh-AO-m0-H8-U-maxresdefault.jpg)](https://youtu.be/xhAO_m0H8_U "https://youtu.be/xhAO_m0H8_U")
-
-## Tubo de venturi impresso em 3D
-![Experimento](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-PerdaDeCarga/blob/master/Imagens/venturi.jpg)
-
-
 
 ## Dados experimentais
 
