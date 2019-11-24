@@ -59,11 +59,11 @@ Para isso, é importante definir um parâmetro de escoamentos viscosos que é o 
    se deve fazer ou não um abordagem em regime turbulento. A relação entre o número de Reynolds e os regimes de escoamento se dá de
    acordo com as seguintes especificações:
    
-   Re < 2300 - Escoamento laminar
+   * Re < 2000 - Escoamento laminar
    
-   Re = 2300 - Transição
+   * 2000 < Re < 2400 - Escoamento de transição
    
-   Re > 2300 - Escoamento turbulento
+   * Re > 2400 - Escoamento turbulento
    
    No sistema de tubos do experimento o ar primeiramente passa por um trecho de diâmetro Da, e depois por um de diâmetro Db, e isso 
    interfere no número de Reynolds, o que ocorre em razão da variação tanto da área como da velocidade do escoamento. Diante do exposto 
