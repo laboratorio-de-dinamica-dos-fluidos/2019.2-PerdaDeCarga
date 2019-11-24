@@ -499,7 +499,7 @@ escoamento turbulento de ar, de maneira que também se aproveitou a oportunidade
 perdas durante a passagem por diferentes acessórios hidráulicos. 
 
 Ainda que não tenha sido possível atingir um escoamento laminar a partir do experimento realizado impossibilitando sua respectiva
-análise, do outro lado do ringue, obteve-se 6 vazões nas quais se observou regime turbulento, o que proporcionou uma quantidade de dados
+análise,foi possível obter 6 vazões nas quais se observou regime turbulento, o que proporcionou uma quantidade de dados
 suficiente para fazer o estudo de como as variáveis relevantes estão relacionadas no ponto de vista da matemática, permitindo a 
 aquisição de resultados que se esperava de acordo com o que foi abordado teoricamente.
 
